@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcbd3b79438738cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Godot engine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Godot engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Godot engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +131,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "be37fca2c5f8a1d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a12f947a108e45b",
+  "active": "fcbd3b79438738cc",
   "lastOpenFiles": [
     "Notes.md",
+    "Godot engine.md",
     "Vault/React.md",
     "Helo.md",
     "Vault/Protocols.md",
