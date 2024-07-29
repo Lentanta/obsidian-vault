@@ -25,6 +25,42 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Back-end development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a6615defb8b40b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb60d18ac476b029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-end development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f09458bbaded3fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Godot engine.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot engine.md",
+                "file": "Devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot engine.md",
+                "file": "Devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,6 +175,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "d7e12294f7b27061",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Devops.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -156,10 +202,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcbd3b79438738cc",
+  "active": "1a6615defb8b40b8",
   "lastOpenFiles": [
-    "Notes.md",
     "Godot engine.md",
+    "Devops.md",
+    "Data structures & Algorithms.md",
+    "Back-end development.md",
+    "Notes.md",
     "Vault/React.md",
     "Helo.md",
     "Vault/Protocols.md",
