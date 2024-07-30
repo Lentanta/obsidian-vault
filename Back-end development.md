@@ -1,28 +1,27 @@
 # Internet
 ---
 ## Comunication Protocol
-#### TCP 
+### TCP 
 - Connection-oriented protocol
 - Require connection
-#### UDP
+### UDP
 - Connectionless protocol
 - Does not requre connection
-
-## OSI Model
+### OSI Model
 Open system interconnection model
 
-- Layer 7 - Application HTTP/FTP/gRPC
-- Layer 6 - Presentation - Encoding. Serialization
-- Layer 5 - Session - Connection establishment, TLS
-- Layer 4 - Transport - UDP/TCP <- important from here
-- Layer 3 - Network - IP
-- Layer 2 - Datalink
-- Layer 1 - Physical
-
-
+Layer 7 - Application HTTP/FTP/gRPC
+Layer 6 - Presentation - Encoding. Serialization
+Layer 5 - Session - Connection establishment, TLS
+Layer 4 - Transport
+- UDP/TCP
+Layer 3 - Network - IP
+Layer 2 - Datalink
+Layer 1 - Physical
 # Relational Database
 ---
 ## PostgreSQL
+
 
 # Caching
 ---
