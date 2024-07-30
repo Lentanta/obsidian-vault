@@ -13,4 +13,6 @@ Don't care which list will merge to which. if the value of list1 is equal or sma
  - Loop solution
 ### [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 Best solution: using two pointers
-
+### [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+Best solution: turn string into vaild string and then 
+`return string == reverse(string)`
