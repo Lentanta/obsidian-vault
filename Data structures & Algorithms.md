@@ -56,4 +56,3 @@ func traverse(root) {
 	}
 }
 ```
-

@@ -2,5 +2,8 @@
   "spellcheck": false,
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "defaultViewMode": "source",
+  "foldHeading": false,
+  "tabSize": 2
 }
