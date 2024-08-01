@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back-end development.md",
+                "file": "Data structures & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Back-end development.md",
+                "file": "Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Back-end development.md",
+                "file": "Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Back-end development.md"
+                "file": "Data structures & Algorithms.md"
               }
             }
           }
@@ -153,18 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069a539c2f1b8fb8",
+  "active": "7a12f947a108e45b",
   "lastOpenFiles": [
+    "Devops.md",
     "Data structures & Algorithms.md",
+    "Godot engine.md",
+    "Back-end development.md",
     "Untitled.md",
     "Tree Data Structures.md",
     "PostgreSQL.md",
     "Notes.md",
     "SQL.md",
-    "Back-end development.md",
     "Buy new monitor.md",
-    "Devops.md",
-    "Godot engine.md",
     "75 Leetcode problems.md",
     "How the internet work.md",
     "images/tree-search.webp",
