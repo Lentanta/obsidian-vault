@@ -16,3 +16,8 @@ Best solution: using two pointers
 ### [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 Best solution: turn string into vaild string and then 
 `return string == reverse(string)`
+### [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+Best solution: Breadth First Search
+1. Push root into Queue
+2. Swap `Left node` with `Right node`
+3. Continue BFS

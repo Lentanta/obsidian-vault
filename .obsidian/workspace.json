@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "75 Leetcode problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "75 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "75 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data structures & Algorithms.md"
+                "file": "75 Leetcode problems.md"
               }
             }
           }
@@ -156,13 +155,13 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "Data structures & Algorithms.md",
     "Tree Data Structures.md",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",
     "Preorder-Traversal-of-Binary-Tree 1.webp",
     "Preorder-Traversal-of-Binary-Tree 2.webp",
     "SQL.md",
     "Preorder-Traversal-of-Binary-Tree.webp",
-    "Data structures & Algorithms.md",
     "Inorder-Traversal-of-Binary-Tree-1024.webp",
     "1_7oIYbZPNlSSwS4qnz-Di6g.webp",
     "75 Leetcode problems.md",
