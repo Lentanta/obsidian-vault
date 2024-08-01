@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2ebf1e56fbd31933",
+        "id": "43a0f977c653c7db",
         "type": "tabs",
         "children": [
           {
-            "id": "2a647908d1b10b6f",
+            "id": "069a539c2f1b8fb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcbd3b79438738cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-end development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a6615defb8b40b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data structures & Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "982e8e9ed058c6f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-end development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34fe1e42fb87fefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6daa37e01295d99e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45797f24245f209b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buy new monitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1a8ecba7ea9503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How the internet work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb60d18ac476b029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Back-end development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f09458bbaded3fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Godot engine.md",
+                "file": "75 Leetcode problems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -194,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How the internet work.md",
+                "file": "75 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How the internet work.md",
+                "file": "75 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How the internet work.md"
+                "file": "75 Leetcode problems.md"
               }
             }
           }
@@ -262,18 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf1a8ecba7ea9503",
+  "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "Godot engine.md",
+    "Back-end development.md",
+    "Notes.md",
+    "Data structures & Algorithms.md",
+    "PostgreSQL.md",
     "Buy new monitor.md",
     "How the internet work.md",
-    "PostgreSQL.md",
     "SQL.md",
-    "Back-end development.md",
     "75 Leetcode problems.md",
-    "Data structures & Algorithms.md",
     "Devops.md",
-    "Notes.md",
-    "Godot engine.md",
     "Vault/React.md",
     "Helo.md",
     "Vault/Protocols.md",
