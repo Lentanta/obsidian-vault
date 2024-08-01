@@ -1,8 +1,7 @@
 # Tree Data Strucures
----
 [[Tree Data Structures]]
 ## Tree Traversal
-![[1_7oIYbZPNlSSwS4qnz-Di6g.webp]]
+![[tree-search.webp]]
 ### Depth First Search
 **In-Oder Traversal (DFS)**
 Bottom -> Top

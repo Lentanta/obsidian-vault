@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "75 Leetcode problems.md"
+                "file": "Data structures & Algorithms.md"
               }
             }
           }
@@ -155,23 +155,24 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "Devops.md",
+    "Godot engine.md",
     "Data structures & Algorithms.md",
+    "Buy new monitor.md",
+    "Back-end development.md",
+    "75 Leetcode problems.md",
+    "Notes.md",
+    "How the internet work.md",
     "Tree Data Structures.md",
+    "images/tree-search.webp",
+    "images",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",
     "Preorder-Traversal-of-Binary-Tree 1.webp",
     "Preorder-Traversal-of-Binary-Tree 2.webp",
     "SQL.md",
     "Preorder-Traversal-of-Binary-Tree.webp",
     "Inorder-Traversal-of-Binary-Tree-1024.webp",
-    "1_7oIYbZPNlSSwS4qnz-Di6g.webp",
-    "75 Leetcode problems.md",
-    "Godot engine.md",
-    "Back-end development.md",
-    "Notes.md",
     "PostgreSQL.md",
-    "Buy new monitor.md",
-    "How the internet work.md",
-    "Devops.md",
     "Vault/React.md",
     "Helo.md",
     "Vault/Protocols.md",
