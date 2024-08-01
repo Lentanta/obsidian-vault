@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "Back-end development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "Back-end development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "Back-end development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data structures & Algorithms.md"
+                "file": "Back-end development.md"
               }
             }
           }
@@ -155,24 +155,25 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "Data structures & Algorithms.md",
+    "Untitled.md",
+    "Tree Data Structures.md",
+    "PostgreSQL.md",
+    "Notes.md",
+    "SQL.md",
+    "Back-end development.md",
+    "Buy new monitor.md",
     "Devops.md",
     "Godot engine.md",
-    "Data structures & Algorithms.md",
-    "Buy new monitor.md",
-    "Back-end development.md",
     "75 Leetcode problems.md",
-    "Notes.md",
     "How the internet work.md",
-    "Tree Data Structures.md",
     "images/tree-search.webp",
     "images",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",
     "Preorder-Traversal-of-Binary-Tree 1.webp",
     "Preorder-Traversal-of-Binary-Tree 2.webp",
-    "SQL.md",
     "Preorder-Traversal-of-Binary-Tree.webp",
     "Inorder-Traversal-of-Binary-Tree-1024.webp",
-    "PostgreSQL.md",
     "Vault/React.md",
     "Helo.md",
     "Vault/Protocols.md",
