@@ -4,7 +4,9 @@
 ## Tree Traversal
 ![[1_7oIYbZPNlSSwS4qnz-Di6g.webp]]
 
-**In-Oder Traversal (DFS)** 
+### Depth First Search
+**In-Oder Traversal (DFS)**
+Bottom -> Top
 Left -> Root -> Right
 ```ts
 function traverse(root) {
@@ -15,6 +17,7 @@ function traverse(root) {
 ```
 
 **Pre-oder Traversal (DFS)**
+Top -> Bottom
 Root -> Left -> Right 
 ```ts
 function traverse(root) {
@@ -24,7 +27,7 @@ function traverse(root) {
 }
 ```
 
-**Post-oder traversal (DFS)**
+**Post-oder Traversal (DFS)**
 Left -> Right -> Root
 ```ts
 function traverse(root) {
@@ -33,6 +36,6 @@ function traverse(root) {
 	print(root)
 }
 ```
-
+### Breadth First Search
 
 
