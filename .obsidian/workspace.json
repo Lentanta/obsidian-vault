@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "75 Leetcode problems.md"
+                "file": "Data structures & Algorithms.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "75 Leetcode problems.md",
     "Godot engine.md",
     "Back-end development.md",
     "Notes.md",
@@ -164,7 +165,6 @@
     "Buy new monitor.md",
     "How the internet work.md",
     "SQL.md",
-    "75 Leetcode problems.md",
     "Devops.md",
     "Vault/React.md",
     "Helo.md",
