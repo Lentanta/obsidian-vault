@@ -4,7 +4,8 @@
 **In-Oder Traversal (DFS)** 
 Left -> Root -> Rigth (LER)
 ```ts
-function traverse() {
-			
+function traverse(root) {
+	traverse()
+	print()		
 }
 ```
