@@ -36,5 +36,12 @@ function traverse(root) {
 }
 ```
 ### Breadth First Search
+Left -> Right
+Top -> Bottom
+```ts
+queue = new Queue();
+func traverse(){
 
+}
+```
 
