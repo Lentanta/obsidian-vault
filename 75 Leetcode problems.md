@@ -22,5 +22,8 @@ Best solution: Breadth First Search
 1. Push root into `Queue`
 2. Swap `Left node` with `Right node`
 3. Continue BFS
-
-
+### [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+Solution: Using map
+1. Add key is character and + value is number of character in s 
+2. Add key is character and - value is number of character in t
+3. If value in map is not 0 then false
