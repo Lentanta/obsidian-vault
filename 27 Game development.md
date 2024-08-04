@@ -5,5 +5,4 @@ tags: gamedev
 ```dataview
 LIST FROM [[]] and !outgoing([[]])
 ```
-## Game engine
-[[27.00 Godot engine]]
+#### 27.00 - 27.09 Godot engine
