@@ -1,4 +1,10 @@
 .view-content .inline-title {
   font-weight: bold;
-  font-size: 12em;
+  font-size: 3rem;
+  border-bottom: 1px solid blue;
+  border-color: var(--inline-title-color);
+}
+
+.view-content .inline-title::after {
+  white-space: pre;
 }
