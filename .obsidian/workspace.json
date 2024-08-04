@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
+                "file": "02 Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
+                "file": "02 Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
+                "file": "02 Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Data structures & Algorithms.md"
+                "file": "02 Template.md"
               }
             }
           }
@@ -157,27 +157,30 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
     "00 Index.md",
     "10 Data structures & Algorithms.md",
-    "10.03 Leetcode problems.md",
+    "10.00 Tree Data Structures.md",
+    "02 Template.md",
+    "13 Database.md",
+    "10.01 Linked List.md",
+    "10.20 Binary search.md",
+    "10.30 Leetcode problems.md",
     "12 Languages and Compilers.md",
     "11 Computer Networking.md",
     "Devops.md",
-    "13 Database.md",
     "20 Game development.md",
     "Godot engine.md",
     "Front-end development.md",
     "Docker.md",
     "Back-end development.md",
-    "Binary search.md",
     "images/binary-search.png",
     "Using docker without sudo.md",
-    "Tree Data Structures.md",
     "PostgreSQL.md",
     "Programing Language.md",
     "SQL.md",
@@ -194,8 +197,6 @@
     "Helo.md",
     "Vault/Protocols.md",
     "Vault/Front-end development.md",
-    "Vault/Back-end development.md",
-    "Vault/ReactJS.md",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",

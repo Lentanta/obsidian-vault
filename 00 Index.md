@@ -1,7 +1,7 @@
 #### 00-09 System
 [[00 Index]]
 [[01 Notes]]
-[[02 Book marks]]
+[[02 Template]]
 #### 10-19 Computer science
 [[10 Data structures & Algorithms]] 
 [[11 Computer Networking]]

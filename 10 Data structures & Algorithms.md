@@ -2,26 +2,12 @@
 list from [[]] and !outgoing([[]])
 ```
 #### 00-19 Data structures
-
-### 
-[[10.03 Leetcode problems]]
+[[10.00 Tree Data Structures]]
+[[10.01 Linked List]]
+#### 20-29 Algorithms
+[[10.20 Binary search]]
+#### 30-39 Problems
+[[10.30 Leetcode problems]]
 
 # Data structures
 ---
-## Linked List
-### Single Linked List
-### Insert
-- Complexcity: **O(1)**
-- Just insert the node that the end or head
-**Remove**
-- Complexcity: O(1) -> O(n)
-- Iterate throught each element to find and remove
-**Search/Find**
-- Complexcity: O(n)
-- Iterate throught each element to find and remove
-## Tree Data Strucures
----
-[[Tree Data Structures]]
-# Algorithms
----
-[[Binary search]]
