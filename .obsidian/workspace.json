@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VM27 - Valut Map.md",
+                "file": "75 Leetcode problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VM27 - Valut Map.md",
+                "file": "75 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VM27 - Valut Map.md",
+                "file": "75 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VM27 - Valut Map.md"
+                "file": "75 Leetcode problems.md"
               }
             }
           }
@@ -168,18 +168,18 @@
   },
   "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
-    "Tree Data Structures.md",
-    "VM27 - Valut Map.md",
+    "Back-end development.md",
+    "75 Leetcode problems.md",
     "Data structures & Algorithms.md",
-    "PostgreSQL.md",
-    "SQL.md",
+    "Godot engine.md",
     "Notes.md",
     "How the internet work.md",
     "Devops.md",
-    "Back-end development.md",
-    "Godot engine.md",
+    "Tree Data Structures.md",
+    "VM27 - Vault Map.md",
+    "PostgreSQL.md",
+    "SQL.md",
     "Buy new monitor.md",
-    "75 Leetcode problems.md",
     "images/tree-search.webp",
     "images",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",

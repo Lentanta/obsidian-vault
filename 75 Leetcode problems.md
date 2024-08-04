@@ -1,4 +1,4 @@
-Link: [leetcode grind75](https://www.techinterviewhandbook.org/grind75)
+Web link: [leetcode grind75](https://www.techinterviewhandbook.org/grind75)
 Review: [[Data structures & Algorithms]]
 ### [Two sum](https://leetcode.com/problems/two-sum)
 **Good solution: using Map

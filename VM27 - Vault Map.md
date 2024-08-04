@@ -1,6 +1,4 @@
-# VM27: Vault maps
----
-## Computer science
+# Computer science
 050: [[Data structures & Algorithms]] 
 100:
 150:
