@@ -2,12 +2,11 @@
 tags:
   - gamedev
 ---
-## GDScript
----
+Link: [[Game development]]
+# GDScript
 
-## Node
----
+# Node
 
-## Functions
----
+# Functions
+
 

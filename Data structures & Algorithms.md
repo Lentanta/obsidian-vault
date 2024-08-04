@@ -1,5 +1,6 @@
  [[VM27 - Vault Map]]
 # Practice
+[[75 Leetcode problems]]
 
 # Linked List
 ---
