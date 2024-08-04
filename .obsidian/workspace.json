@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index.md",
+                "file": "10 Data structures & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Index.md",
+                "file": "10 Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Index.md",
+                "file": "10 Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Index.md"
+                "file": "10 Data structures & Algorithms.md"
               }
             }
           }
@@ -162,17 +162,17 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "11 Computer Networking.md",
     "00 Index.md",
-    "12 Languages and Compilers.md",
     "10 Data structures & Algorithms.md",
+    "10.03 Leetcode problems.md",
+    "12 Languages and Compilers.md",
+    "11 Computer Networking.md",
+    "Devops.md",
+    "13 Database.md",
+    "20 Game development.md",
     "Godot engine.md",
-    "Game development.md",
-    "75 Leetcode problems.md",
-    "Database.md",
     "Front-end development.md",
     "Docker.md",
-    "Devops.md",
     "Back-end development.md",
     "Binary search.md",
     "images/binary-search.png",

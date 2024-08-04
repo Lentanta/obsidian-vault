@@ -1,6 +1,11 @@
- [[00 Index]]
-# Practice
-[[75 Leetcode problems]]
+```dataview
+list from [[]] and !outgoing([[]])
+```
+#### 00-19 Data structures
+
+### 
+[[10.03 Leetcode problems]]
+
 # Data structures
 ---
 ## Linked List
