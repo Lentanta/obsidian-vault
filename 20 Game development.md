@@ -2,6 +2,8 @@
 tags:
   - gamedev
 ---
-Link: [[00 Index]]
+```dataview
+LIST FROM [[]]
+```
 ## Game engine
 [[Godot engine]]

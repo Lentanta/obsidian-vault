@@ -8,5 +8,6 @@
   "tabSize": 2,
   "showInlineTitle": true,
   "showRibbon": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "propertiesInDocument": "source"
 }

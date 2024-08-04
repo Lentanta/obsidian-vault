@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Template.md",
+                "file": "20 Game development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Template.md",
+                "file": "20 Game development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Template.md",
+                "file": "20 Game development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Template.md"
+                "file": "20 Game development.md"
               }
             }
           }
@@ -165,18 +165,20 @@
   "lastOpenFiles": [
     "00 Index.md",
     "10 Data structures & Algorithms.md",
-    "10.00 Tree Data Structures.md",
-    "02 Template.md",
+    "Front-end development.md",
     "13 Database.md",
-    "10.01 Linked List.md",
-    "10.20 Binary search.md",
+    "20 Game development.md",
     "10.30 Leetcode problems.md",
+    "10.20 Binary search.md",
+    "10.00 Tree Data Structures.md",
+    "01 Notes.md",
+    "01 Template.md",
+    "Untitled.md",
+    "10.01 Linked List.md",
     "12 Languages and Compilers.md",
     "11 Computer Networking.md",
     "Devops.md",
-    "20 Game development.md",
     "Godot engine.md",
-    "Front-end development.md",
     "Docker.md",
     "Back-end development.md",
     "images/binary-search.png",
@@ -195,8 +197,6 @@
     "Inorder-Traversal-of-Binary-Tree-1024.webp",
     "Vault/React.md",
     "Helo.md",
-    "Vault/Protocols.md",
-    "Vault/Front-end development.md",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",
