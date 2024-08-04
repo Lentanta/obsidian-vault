@@ -2,6 +2,7 @@
 # Practice
 [[75 Leetcode problems]]
 # Data structures
+---
 ## Linked List
 ### Single Linked List
 ### Insert
@@ -16,4 +17,6 @@
 ## Tree Data Strucures
 ---
 [[Tree Data Structures]]
-# 
+# Algorithms
+---
+[[Binary search]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "Devops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "Devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data structures & Algorithms.md",
+                "file": "Devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data structures & Algorithms.md"
+                "file": "Devops.md"
               }
             }
           }
@@ -162,18 +162,19 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "Data structures & Algorithms.md",
+    "Back-end development.md",
+    "Binary search.md",
     "75 Leetcode problems.md",
     "images/binary-search.png",
     "Programing Languages.md",
     "VM27 - Vault Map.md",
     "Game development.md",
-    "Back-end development.md",
     "Devops.md",
     "Docker.md",
     "Using docker without sudo.md",
     "Godot engine.md",
     "Networking.md",
-    "Data structures & Algorithms.md",
     "Database.md",
     "Tree Data Structures.md",
     "PostgreSQL.md",
