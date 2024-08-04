@@ -1,5 +1,5 @@
 Web link: [leetcode grind75](https://www.techinterviewhandbook.org/grind75)
-Link: [[Data structures & Algorithms]]
+Link: [[10 Data structures & Algorithms]]
 ### [Two sum](https://leetcode.com/problems/two-sum)
 **Good solution: using Map
    - One-pass Hash table -> Create Map with values first and then check.

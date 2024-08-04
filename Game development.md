@@ -2,6 +2,6 @@
 tags:
   - gamedev
 ---
-Link: [[18.02 - Vault Map]]
+Link: [[00 Index]]
 ## Game engine
 [[Godot engine]]

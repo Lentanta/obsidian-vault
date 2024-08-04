@@ -1,4 +1,4 @@
-[[Data structures & Algorithms]]
+[[10 Data structures & Algorithms]]
 # How it work
 ![[binary-search.png]]
 ## Code

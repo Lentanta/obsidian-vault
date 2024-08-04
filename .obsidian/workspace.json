@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18.02 - Vault Map.md",
+                "file": "00 Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 Index.md"
+              }
             }
           }
         ],
@@ -156,13 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3174baebdd91f0b7",
+  "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "18.02 - Vault Map.md",
+    "11 Computer Networking.md",
+    "00 Index.md",
+    "12 Languages and Compilers.md",
+    "10 Data structures & Algorithms.md",
     "Godot engine.md",
     "Game development.md",
     "75 Leetcode problems.md",
-    "Data structures & Algorithms.md",
     "Database.md",
     "Front-end development.md",
     "Docker.md",
@@ -170,9 +176,7 @@
     "Back-end development.md",
     "Binary search.md",
     "images/binary-search.png",
-    "Programing Languages.md",
     "Using docker without sudo.md",
-    "Networking.md",
     "Tree Data Structures.md",
     "PostgreSQL.md",
     "Programing Language.md",
