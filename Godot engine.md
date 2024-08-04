@@ -2,7 +2,7 @@
 tags:
   - gamedev
 ---
-Link: [[20 Game development]]
+Link: [[27 Game development]]
 # GDScript
 
 

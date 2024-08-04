@@ -6,8 +6,9 @@
 [[11 Computer Networking]]
 [[12 Languages and Compilers]]
 [[13 Database]]
-[[Devops]]
+[[14 Softwate development]]
 [[Back-end development]]
 [[Front-end development]]
 #### 20-29 Hobbies
-[[20 Game development]]
+[[20 Pixel art]]
+[[27 Game development]]

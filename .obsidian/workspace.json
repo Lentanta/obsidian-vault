@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Game development.md",
+                "file": "14 Softwate development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Game development.md",
+                "file": "14 Softwate development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Game development.md",
+                "file": "14 Softwate development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,8 +123,12 @@
             "id": "3174baebdd91f0b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -141,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Game development.md"
+                "file": "14 Softwate development.md"
               }
             }
           }
@@ -150,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.5
+    "width": 682.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,20 +169,21 @@
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
     "00 Index.md",
+    "14 Softwate development.md",
+    "Untitled.md",
+    "27 Game development.md",
+    "Devops.md",
     "10 Data structures & Algorithms.md",
+    "10.20 Binary search.md",
+    "10.30 Leetcode problems.md",
     "Front-end development.md",
     "13 Database.md",
-    "20 Game development.md",
-    "10.30 Leetcode problems.md",
-    "10.20 Binary search.md",
     "10.00 Tree Data Structures.md",
     "01 Notes.md",
     "01 Template.md",
-    "Untitled.md",
     "10.01 Linked List.md",
     "12 Languages and Compilers.md",
     "11 Computer Networking.md",
-    "Devops.md",
     "Godot engine.md",
     "Docker.md",
     "Back-end development.md",
@@ -196,7 +202,6 @@
     "Preorder-Traversal-of-Binary-Tree.webp",
     "Inorder-Traversal-of-Binary-Tree-1024.webp",
     "Vault/React.md",
-    "Helo.md",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",

@@ -1,9 +1,8 @@
 ---
-tags:
-  - gamedev
+tags: gamedev
 ---
 ```dataview
-LIST FROM [[]]
+LIST FROM [[]] and !outgoing([[]])
 ```
 ## Game engine
 [[Godot engine]]
