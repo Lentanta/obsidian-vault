@@ -6,6 +6,7 @@
   "defaultViewMode": "source",
   "foldHeading": false,
   "tabSize": 2,
-  "showInlineTitle": false,
-  "showRibbon": true
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "showUnsupportedFiles": false
 }

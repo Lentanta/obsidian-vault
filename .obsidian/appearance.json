@@ -6,5 +6,9 @@
   "textFontFamily": "FreeSans",
   "showViewHeader": true,
   "theme": "moonstone",
-  "monospaceFontFamily": "Fira Mono"
+  "monospaceFontFamily": "Fira Mono",
+  "enabledCssSnippets": [
+    "styles",
+    "custom-editor"
+  ]
 }
