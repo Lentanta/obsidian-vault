@@ -1,3 +1,4 @@
+Link: [[Data structures & Algorithms]]
 ## Types of tree
 ---
 

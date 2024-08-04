@@ -20,7 +20,7 @@ Layer 2 - Datalink
 Layer 1 - Physical
 # Relational Database
 ---
-## PostgreSQL
+[[PostgreSQL]]
 
 
 # Caching

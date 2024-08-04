@@ -1,5 +1,6 @@
 # Computer science
-050: [[Data structures & Algorithms]] 
-100:
-150:
-200:
+[[Data structures & Algorithms]] 
+[[Back-end development]]
+
+# Hobbies
+[[Game development]]

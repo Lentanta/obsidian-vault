@@ -6,6 +6,7 @@
       {
         "id": "43a0f977c653c7db",
         "type": "tabs",
+        "dimension": 69.67808930425753,
         "children": [
           {
             "id": "069a539c2f1b8fb8",
@@ -25,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "VM27 - Vault Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +34,21 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "489f0bd4590bb8b7",
+        "type": "tabs",
+        "dimension": 30.32191069574247,
+        "children": [
+          {
+            "id": "d6e08ebadbc2c10f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "VM27 - Vault Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "VM27 - Vault Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "75 Leetcode problems.md"
+                "file": "VM27 - Vault Map.md"
               }
             }
           }
@@ -168,16 +184,17 @@
   },
   "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
-    "Back-end development.md",
-    "75 Leetcode problems.md",
-    "Data structures & Algorithms.md",
-    "Godot engine.md",
-    "Notes.md",
-    "How the internet work.md",
-    "Devops.md",
-    "Tree Data Structures.md",
-    "VM27 - Vault Map.md",
     "PostgreSQL.md",
+    "How the internet work.md",
+    "Godot engine.md",
+    "Data structures & Algorithms.md",
+    "75 Leetcode problems.md",
+    "VM27 - Vault Map.md",
+    "Tree Data Structures.md",
+    "Game development.md",
+    "Back-end development.md",
+    "Notes.md",
+    "Devops.md",
     "SQL.md",
     "Buy new monitor.md",
     "images/tree-search.webp",

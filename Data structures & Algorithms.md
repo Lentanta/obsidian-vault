@@ -1,8 +1,6 @@
-Link: [[]]
-## Linked List
----
-### Single Linked List
-#### Insert
+# Linked List
+## Single Linked List
+### Insert
 - Complexcity: **O(1)**
 - Just insert the node that the end or head
 **Remove**
@@ -12,6 +10,6 @@ Link: [[]]
 - Complexcity: O(n)
 - Iterate throught each element to find and remove
 
-## Tree Data Strucures
+# Tree Data Strucures
 ---
 [[Tree Data Structures]]
