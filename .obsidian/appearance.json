@@ -1,7 +1,10 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "#0091ff",
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "interfaceFontFamily": "FreeSans",
-  "textFontFamily": "FreeSans"
+  "textFontFamily": "FreeSans",
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "monospaceFontFamily": "Fira Mono"
 }
