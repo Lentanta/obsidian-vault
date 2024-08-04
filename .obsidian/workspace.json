@@ -24,12 +24,8 @@
             "id": "3174baebdd91f0b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VM27 - Vault Map.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VM27 - Vault Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VM27 - Vault Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VM27 - Vault Map.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -184,15 +176,17 @@
   },
   "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
-    "Front-end development.md",
     "VM27 - Vault Map.md",
+    "Database.md",
+    "Game development.md",
+    "Godot engine.md",
+    "Programing Language.md",
+    "Programing Languages.md",
+    "Front-end development.md",
     "Back-end development.md",
     "Devops.md",
-    "Game development.md",
     "Networking.md",
-    "Database.md",
     "PostgreSQL.md",
-    "Godot engine.md",
     "Data structures & Algorithms.md",
     "75 Leetcode problems.md",
     "Tree Data Structures.md",
