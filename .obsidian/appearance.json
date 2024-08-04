@@ -1,5 +1,7 @@
 {
   "cssTheme": "AnuPpuccin",
-  "accentColor": "",
-  "baseFontSize": 17
+  "accentColor": "#0091ff",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "FreeSans",
+  "textFontFamily": "FreeSans"
 }
