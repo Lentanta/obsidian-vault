@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27 Game development.md",
+                "file": "27.01 Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27 Game development.md",
+                "file": "27.01 Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27 Game development.md",
+                "file": "27.01 Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27 Game development.md"
+                "file": "27.01 Groups.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "27 Game development.md",
+    "27.01 Groups.md",
     "00 Index.md",
     "20 Art.md",
     "14 Software development.md",
@@ -175,7 +177,6 @@
     "10 Data structures & Algorithms.md",
     "13 Database.md",
     "12 Languages and Compilers.md",
-    "27 Game development.md",
     "27.00 Godot engine.md",
     "13.00 SQL.md",
     "13.01 PostgreSQL.md",
@@ -189,7 +190,6 @@
     "10.01 Linked List.md",
     "Docker.md",
     "images/binary-search.png",
-    "Using docker without sudo.md",
     "images/tree-search.webp",
     "images",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",
