@@ -11,8 +11,12 @@
             "id": "069a539c2f1b8fb8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "75 Leetcode problems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "75 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "75 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "75 Leetcode problems.md"
+              }
             }
           }
         ],
@@ -142,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 599.5
+    "width": 942.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +163,10 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "Game development.md",
+    "Programing Languages.md",
     "VM27 - Vault Map.md",
+    "75 Leetcode problems.md",
+    "Game development.md",
     "Back-end development.md",
     "Devops.md",
     "Docker.md",
@@ -167,9 +178,7 @@
     "Tree Data Structures.md",
     "PostgreSQL.md",
     "Programing Language.md",
-    "Programing Languages.md",
     "Front-end development.md",
-    "75 Leetcode problems.md",
     "SQL.md",
     "Notes.md",
     "Buy new monitor.md",
