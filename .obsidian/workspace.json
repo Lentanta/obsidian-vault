@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "75 Leetcode problems.md",
+                "file": "Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "75 Leetcode problems.md"
+                "file": "Data structures & Algorithms.md"
               }
             }
           }
@@ -163,9 +162,10 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "75 Leetcode problems.md",
+    "images/binary-search.png",
     "Programing Languages.md",
     "VM27 - Vault Map.md",
-    "75 Leetcode problems.md",
     "Game development.md",
     "Back-end development.md",
     "Devops.md",
@@ -199,7 +199,6 @@
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",
     "https:/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>@github.com",
-    "https:",
-    "Vault/SQL.md"
+    "https:"
   ]
 }

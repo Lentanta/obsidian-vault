@@ -1,10 +1,9 @@
  [[VM27 - Vault Map]]
 # Practice
 [[75 Leetcode problems]]
-
-# Linked List
----
-## Single Linked List
+# Data structures
+## Linked List
+### Single Linked List
 ### Insert
 - Complexcity: **O(1)**
 - Just insert the node that the end or head
@@ -14,6 +13,7 @@
 **Search/Find**
 - Complexcity: O(n)
 - Iterate throught each element to find and remove
-# Tree Data Strucures
+## Tree Data Strucures
 ---
 [[Tree Data Structures]]
+# 

@@ -28,6 +28,8 @@ Solution: Using map
 1. Add key is character and + value is number of character in s 
 2. Add key is character and - value is number of character in t
 3. If value in map is not 0 then false
+### [Binary Search](https://leetcode.com/problems/binary-search)
+![[binary-search.png]]
 
 
 
