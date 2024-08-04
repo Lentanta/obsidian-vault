@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27 Game development.md",
-                "mode": "source",
+                "file": "00 Index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27 Game development.md",
+                "file": "00 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27 Game development.md",
+                "file": "00 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27 Game development.md"
+                "file": "00 Index.md"
               }
             }
           }
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 844.5
+    "width": 782.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,18 +163,18 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "11 Computer Networking.md",
     "00 Index.md",
-    "10 Data structures & Algorithms.md",
-    "27 Game development.md",
-    "27.00 Godot engine.md",
+    "14 Software development.md",
     "13 Database.md",
+    "12 Languages and Compilers.md",
+    "27 Game development.md",
+    "10 Data structures & Algorithms.md",
+    "27.00 Godot engine.md",
     "13.00 SQL.md",
     "13.01 PostgreSQL.md",
     "14.00 Back-end development.md",
-    "14 Software development.md",
     "10.00 Tree Data Structures.md",
-    "12 Languages and Compilers.md",
-    "11 Computer Networking.md",
     "01 Template.md",
     "Front-end development.md",
     "14 Softwate development.md",
