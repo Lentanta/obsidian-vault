@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot engine.md",
+                "file": "18.02 - Vault Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -86,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Godot engine.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 942.5
+    "width": 682.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069a539c2f1b8fb8",
+  "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
+    "18.02 - Vault Map.md",
+    "Godot engine.md",
     "Game development.md",
-    "VM27 - Vault Map.md",
     "75 Leetcode problems.md",
     "Data structures & Algorithms.md",
     "Database.md",
@@ -176,7 +172,6 @@
     "images/binary-search.png",
     "Programing Languages.md",
     "Using docker without sudo.md",
-    "Godot engine.md",
     "Networking.md",
     "Tree Data Structures.md",
     "PostgreSQL.md",

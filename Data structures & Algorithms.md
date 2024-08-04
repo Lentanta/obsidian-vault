@@ -1,4 +1,4 @@
- [[VM27 - Vault Map]]
+ [[18.02 - Vault Map]]
 # Practice
 [[75 Leetcode problems]]
 # Data structures
