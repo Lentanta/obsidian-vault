@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Data structures & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Data structures & Algorithms.md"
               }
             }
           }
@@ -155,18 +155,18 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "Data structures & Algorithms.md",
-    "Devops.md",
-    "Godot engine.md",
-    "Back-end development.md",
-    "Untitled.md",
     "Tree Data Structures.md",
+    "Data structures & Algorithms.md",
     "PostgreSQL.md",
-    "Notes.md",
     "SQL.md",
+    "Notes.md",
+    "How the internet work.md",
+    "Devops.md",
+    "Back-end development.md",
+    "Godot engine.md",
+    "Untitled.md",
     "Buy new monitor.md",
     "75 Leetcode problems.md",
-    "How the internet work.md",
     "images/tree-search.webp",
     "images",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",
