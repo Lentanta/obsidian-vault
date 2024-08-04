@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index.md",
-                "mode": "preview",
+                "file": "14 Software development.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Index.md",
+                "file": "14 Software development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Index.md",
+                "file": "14 Software development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Index.md"
+                "file": "14 Software development.md"
               }
             }
           }
@@ -163,23 +163,24 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "11 Computer Networking.md",
-    "00 Index.md",
+    "14.00 Back-end development.md",
     "14 Software development.md",
+    "14.01 NodeJS.md",
+    "10.20 Binary search.md",
+    "10 Data structures & Algorithms.md",
+    "00 Index.md",
+    "11 Computer Networking.md",
     "13 Database.md",
     "12 Languages and Compilers.md",
     "27 Game development.md",
-    "10 Data structures & Algorithms.md",
     "27.00 Godot engine.md",
     "13.00 SQL.md",
     "13.01 PostgreSQL.md",
-    "14.00 Back-end development.md",
     "10.00 Tree Data Structures.md",
     "01 Template.md",
     "Front-end development.md",
     "14 Softwate development.md",
     "Devops.md",
-    "10.20 Binary search.md",
     "10.30 Leetcode problems.md",
     "01 Notes.md",
     "10.01 Linked List.md",
@@ -196,7 +197,6 @@
     "Preorder-Traversal-of-Binary-Tree 2.webp",
     "Preorder-Traversal-of-Binary-Tree.webp",
     "Inorder-Traversal-of-Binary-Tree-1024.webp",
-    "Vault/React.md",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",
