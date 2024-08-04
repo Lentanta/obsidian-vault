@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index.md",
+                "file": "14.00 Back-end development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "14.00 Back-end development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "14.00 Back-end development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "14.00 Back-end development.md"
+              }
             }
           }
         ],
@@ -146,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 844.5
+    "width": 844.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,15 +162,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3174baebdd91f0b7",
+  "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "00 Index.md",
-    "01 Template.md",
-    "27 Game development.md",
+    "PostgreSQL.md",
     "13 Database.md",
-    "13.00 SQL.md",
+    "00 Index.md",
     "14 Software development.md",
     "14.00 Back-end development.md",
+    "01 Template.md",
+    "27 Game development.md",
+    "13.00 SQL.md",
     "Front-end development.md",
     "12 Languages and Compilers.md",
     "10 Data structures & Algorithms.md",
@@ -181,7 +187,6 @@
     "Docker.md",
     "images/binary-search.png",
     "Using docker without sudo.md",
-    "PostgreSQL.md",
     "Programing Language.md",
     "Notes.md",
     "Buy new monitor.md",
