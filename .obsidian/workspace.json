@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 Software development.md",
+                "file": "14.01 NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 Software development.md",
+                "file": "14.01 NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 Software development.md",
+                "file": "14.01 NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14 Software development.md"
+                "file": "14.01 NodeJS.md"
               }
             }
           }
@@ -163,13 +163,15 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "14.00 Back-end development.md",
     "14 Software development.md",
+    "00 Index.md",
+    "11 Computer Networking.md",
+    "11.01 Comunication protocol.md",
+    "11.00 OSI Model.md",
+    "14.00 Back-end development.md",
     "14.01 NodeJS.md",
     "10.20 Binary search.md",
     "10 Data structures & Algorithms.md",
-    "00 Index.md",
-    "11 Computer Networking.md",
     "13 Database.md",
     "12 Languages and Compilers.md",
     "27 Game development.md",
@@ -188,8 +190,6 @@
     "images/binary-search.png",
     "Using docker without sudo.md",
     "Programing Language.md",
-    "Notes.md",
-    "Buy new monitor.md",
     "images/tree-search.webp",
     "images",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",
