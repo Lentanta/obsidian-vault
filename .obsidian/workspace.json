@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 Softwate development.md",
+                "file": "00 Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 Softwate development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 Softwate development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,12 +121,8 @@
             "id": "3174baebdd91f0b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "14 Softwate development.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,44 +146,43 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.5,
-    "collapsed": true
+    "width": 844.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a539c2f1b8fb8",
+  "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
     "00 Index.md",
-    "14 Softwate development.md",
-    "Untitled.md",
+    "01 Template.md",
     "27 Game development.md",
-    "Devops.md",
+    "13 Database.md",
+    "13.00 SQL.md",
+    "14 Software development.md",
+    "14.00 Back-end development.md",
+    "Front-end development.md",
+    "12 Languages and Compilers.md",
     "10 Data structures & Algorithms.md",
+    "27.00 Godot engine.md",
+    "14 Softwate development.md",
+    "Devops.md",
     "10.20 Binary search.md",
     "10.30 Leetcode problems.md",
-    "Front-end development.md",
-    "13 Database.md",
     "10.00 Tree Data Structures.md",
     "01 Notes.md",
-    "01 Template.md",
     "10.01 Linked List.md",
-    "12 Languages and Compilers.md",
     "11 Computer Networking.md",
-    "Godot engine.md",
     "Docker.md",
-    "Back-end development.md",
     "images/binary-search.png",
     "Using docker without sudo.md",
     "PostgreSQL.md",
     "Programing Language.md",
-    "SQL.md",
     "Notes.md",
     "Buy new monitor.md",
     "images/tree-search.webp",
