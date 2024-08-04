@@ -4,3 +4,5 @@
 
 # Hobbies
 [[Game development]]
+
+# Shortcut

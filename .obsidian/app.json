@@ -4,7 +4,7 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "defaultViewMode": "source",
-  "foldHeading": false,
+  "foldHeading": true,
   "tabSize": 2,
   "showInlineTitle": true,
   "showRibbon": true,

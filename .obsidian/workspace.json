@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VM27 - Vault Map.md",
+                "file": "Tree Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VM27 - Vault Map.md",
+                "file": "Tree Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VM27 - Vault Map.md",
+                "file": "Tree Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VM27 - Vault Map.md"
+                "file": "Tree Data Structures.md"
               }
             }
           }
@@ -184,18 +184,18 @@
   },
   "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
+    "Data structures & Algorithms.md",
+    "VM27 - Vault Map.md",
+    "Tree Data Structures.md",
+    "SQL.md",
     "PostgreSQL.md",
     "How the internet work.md",
     "Godot engine.md",
-    "Data structures & Algorithms.md",
-    "75 Leetcode problems.md",
-    "VM27 - Vault Map.md",
-    "Tree Data Structures.md",
     "Game development.md",
     "Back-end development.md",
+    "75 Leetcode problems.md",
     "Notes.md",
     "Devops.md",
-    "SQL.md",
     "Buy new monitor.md",
     "images/tree-search.webp",
     "images",

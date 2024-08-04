@@ -1,4 +1,4 @@
-# Linked List
+ [[VM27 - Vault Map]]
 ## Single Linked List
 ### Insert
 - Complexcity: **O(1)**
@@ -9,7 +9,6 @@
 **Search/Find**
 - Complexcity: O(n)
 - Iterate throught each element to find and remove
-
 # Tree Data Strucures
 ---
 [[Tree Data Structures]]
