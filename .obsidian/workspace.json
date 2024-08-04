@@ -6,7 +6,7 @@
       {
         "id": "43a0f977c653c7db",
         "type": "tabs",
-        "dimension": 69.67808930425753,
+        "dimension": 73.31256490134996,
         "children": [
           {
             "id": "069a539c2f1b8fb8",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree Data Structures.md",
+                "file": "Data structures & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "489f0bd4590bb8b7",
         "type": "tabs",
-        "dimension": 30.32191069574247,
+        "dimension": 26.687435098650052,
         "children": [
           {
             "id": "d6e08ebadbc2c10f",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree Data Structures.md",
+                "file": "Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree Data Structures.md",
+                "file": "Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree Data Structures.md"
+                "file": "Data structures & Algorithms.md"
               }
             }
           }
@@ -184,12 +184,13 @@
   },
   "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
-    "Data structures & Algorithms.md",
     "VM27 - Vault Map.md",
+    "Front-end development.md",
+    "Data structures & Algorithms.md",
     "Tree Data Structures.md",
+    "Networking.md",
     "SQL.md",
     "PostgreSQL.md",
-    "How the internet work.md",
     "Godot engine.md",
     "Game development.md",
     "Back-end development.md",

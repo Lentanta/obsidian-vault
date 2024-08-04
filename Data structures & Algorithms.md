@@ -1,4 +1,8 @@
  [[VM27 - Vault Map]]
+# Practice
+
+# Linked List
+---
 ## Single Linked List
 ### Insert
 - Complexcity: **O(1)**
