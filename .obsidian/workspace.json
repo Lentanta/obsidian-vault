@@ -85,7 +85,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "27 Game development.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "27 Game development.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +146,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "27 Game development.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -161,7 +171,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a539c2f1b8fb8",
+  "active": "3174baebdd91f0b7",
   "lastOpenFiles": [
     "15 System Design.md",
     "10.10 Binary search.md",
