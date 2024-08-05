@@ -7,7 +7,14 @@
       "key": " "
     }
   ],
-  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
   "templater-obsidian:01 Template.md": [
     {
       "modifiers": [

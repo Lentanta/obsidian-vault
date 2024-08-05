@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27 Game development.md",
+                "file": "27.05 How-to & examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,10 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "27 Game development.md",
-=======
->>>>>>> Stashed changes
+                "file": "27.05 How-to & examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,10 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "27 Game development.md",
-=======
->>>>>>> Stashed changes
+                "file": "27.05 How-to & examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,13 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {
-                "file": "27 Game development.md"
+                "file": "27.05 How-to & examples.md"
               }
-=======
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ],
@@ -160,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 782.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,13 +161,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3174baebdd91f0b7",
+  "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "27 Game development.md",
+    "27.05 How-to & examples.md",
+    "00 Index.md",
     "15 System Design.md",
     "10.10 Binary search.md",
-    "27 Game development.md",
     "27.01 Groups.md",
-    "00 Index.md",
     "20 Art.md",
     "14 Software development.md",
     "14.01 NodeJS.md",
@@ -198,7 +189,6 @@
     "14 Softwate development.md",
     "Devops.md",
     "10.30 Leetcode problems.md",
-    "01 Notes.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",
