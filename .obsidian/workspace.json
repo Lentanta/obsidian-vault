@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
-                "mode": "preview",
+                "file": "00 Index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
+                "file": "00 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
+                "file": "00 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Data structures & Algorithms.md"
+                "file": "00 Index.md"
               }
             }
           }
@@ -161,11 +161,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a539c2f1b8fb8",
+  "active": "7a12f947a108e45b",
   "lastOpenFiles": [
+    "Untitled.md",
     "00 Index.md",
-    "10.30 Leetcode problems.md",
     "10 Data structures & Algorithms.md",
+    "10.30 Leetcode problems.md",
     "10.10 Binary search.md",
     "12 Languages and Compilers.md",
     "14 Software development.md",
@@ -188,7 +189,6 @@
     "14 Softwate development.md",
     "01 Notes.md",
     "10.01 Linked List.md",
-    "Docker.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",

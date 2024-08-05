@@ -7,6 +7,7 @@
 [[12 Languages and Compilers]]
 [[13 Database]]
 [[14 Software development]]
+
 #### 20-29 Hobbies
 [[20 Art]]
 [[27 Game development]]
