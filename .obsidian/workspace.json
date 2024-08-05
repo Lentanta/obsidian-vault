@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index.md",
+                "file": "15 System Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Index.md",
+                "file": "15 System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Index.md",
+                "file": "15 System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Index.md"
+                "file": "15 System Design.md"
               }
             }
           }
@@ -161,10 +161,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a12f947a108e45b",
+  "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "Untitled.md",
     "00 Index.md",
+    "15 System Design.md",
+    "Untitled.md",
     "10 Data structures & Algorithms.md",
     "10.30 Leetcode problems.md",
     "10.10 Binary search.md",
@@ -188,7 +189,6 @@
     "Front-end development.md",
     "14 Softwate development.md",
     "01 Notes.md",
-    "10.01 Linked List.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",
