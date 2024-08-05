@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27.01 Groups.md",
-                "mode": "source",
+                "file": "10.30 Leetcode problems.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27.01 Groups.md",
+                "file": "10.30 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27.01 Groups.md",
+                "file": "10.30 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27.01 Groups.md"
+                "file": "10.30 Leetcode problems.md"
               }
             }
           }
@@ -150,32 +150,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 782.5
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "10 Data structures & Algorithms.md",
+    "10.30 Leetcode problems.md",
+    "00 Index.md",
+    "12 Languages and Compilers.md",
+    "14 Software development.md",
+    "Devops.md",
+    "14.00 Back-end development.md",
+    "14.01 NodeJS.md",
+    "20 Art.md",
     "27 Game development.md",
     "27.01 Groups.md",
-    "00 Index.md",
-    "20 Art.md",
-    "14 Software development.md",
-    "14.01 NodeJS.md",
     "11 Computer Networking.md",
     "11.01 Comunication protocol.md",
     "11.00 OSI Model.md",
-    "14.00 Back-end development.md",
     "10.20 Binary search.md",
-    "10 Data structures & Algorithms.md",
     "13 Database.md",
-    "12 Languages and Compilers.md",
     "27.00 Godot engine.md",
     "13.00 SQL.md",
     "13.01 PostgreSQL.md",
@@ -183,8 +186,6 @@
     "01 Template.md",
     "Front-end development.md",
     "14 Softwate development.md",
-    "Devops.md",
-    "10.30 Leetcode problems.md",
     "01 Notes.md",
     "10.01 Linked List.md",
     "Docker.md",
