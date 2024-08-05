@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10 Data structures & Algorithms.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10 Data structures & Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10 Data structures & Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.30 Leetcode problems.md"
+                "file": "10 Data structures & Algorithms.md"
               }
             }
           }
@@ -163,10 +163,10 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "00 Index.md",
+    "10.30 Leetcode problems.md",
     "10 Data structures & Algorithms.md",
     "10.10 Binary search.md",
-    "10.30 Leetcode problems.md",
-    "00 Index.md",
     "12 Languages and Compilers.md",
     "14 Software development.md",
     "Devops.md",
