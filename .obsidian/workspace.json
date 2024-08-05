@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "10.30 Leetcode problems.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -163,8 +163,9 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "10 Data structures & Algorithms.md",
+    "10.20 Binary search.md",
     "10.30 Leetcode problems.md",
+    "10 Data structures & Algorithms.md",
     "00 Index.md",
     "12 Languages and Compilers.md",
     "14 Software development.md",
@@ -177,7 +178,6 @@
     "11 Computer Networking.md",
     "11.01 Comunication protocol.md",
     "11.00 OSI Model.md",
-    "10.20 Binary search.md",
     "13 Database.md",
     "27.00 Godot engine.md",
     "13.00 SQL.md",
