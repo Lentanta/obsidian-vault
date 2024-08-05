@@ -157,8 +157,7 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "069a539c2f1b8fb8",
