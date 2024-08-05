@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15 System Design.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15 System Design.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15 System Design.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15 System Design.md"
+                "file": "Notes.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "00 Index.md",
     "15 System Design.md",
+    "00 Index.md",
     "Untitled.md",
     "10 Data structures & Algorithms.md",
     "10.30 Leetcode problems.md",
