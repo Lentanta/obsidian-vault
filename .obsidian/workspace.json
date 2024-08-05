@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "10.30 Leetcode problems.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -163,9 +163,9 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "10.20 Binary search.md",
-    "10.30 Leetcode problems.md",
     "10 Data structures & Algorithms.md",
+    "10.10 Binary search.md",
+    "10.30 Leetcode problems.md",
     "00 Index.md",
     "12 Languages and Compilers.md",
     "14 Software development.md",
