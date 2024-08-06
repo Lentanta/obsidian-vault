@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
-                "mode": "preview",
+                "file": "00 Index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
+                "file": "00 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Data structures & Algorithms.md",
+                "file": "00 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Data structures & Algorithms.md"
+                "file": "00 Index.md"
               }
             }
           }
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,32 +163,32 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "10.00 Tree Data Structures.md",
-    "10 Data structures & Algorithms.md",
+    "02 Notes.md",
     "00 Index.md",
-    "11 Computer Networking.md",
-    "12 Languages and Compilers.md",
-    "11.01 Comunication protocol.md",
-    "14 Software development.md",
-    "20 Art.md",
-    "15 System Design.md",
-    "Docker.md",
-    "Using docker without sudo.md",
-    "Devops.md",
-    "10.10 Binary search.md",
-    "10.30 Leetcode problems.md",
-    "10.01 Linked List.md",
-    "14.01 NodeJS.md",
-    "14.00 Back-end development.md",
-    "11.00 OSI Model.md",
-    "Notes.md",
+    "10 Data structures & Algorithms.md",
     "27.05 How-to & examples.md",
-    "Untitled.md",
     "27 Game development.md",
+    "15 System Design.md",
+    "10.10 Binary search.md",
     "27.01 Groups.md",
+    "20 Art.md",
+    "14 Software development.md",
+    "14.01 NodeJS.md",
+    "11 Computer Networking.md",
+    "11.01 Comunication protocol.md",
+    "11.00 OSI Model.md",
+    "14.00 Back-end development.md",
+    "10.20 Binary search.md",
     "13 Database.md",
+    "12 Languages and Compilers.md",
     "27.00 Godot engine.md",
     "13.00 SQL.md",
+    "13.01 PostgreSQL.md",
+    "10.00 Tree Data Structures.md",
+    "01 Template.md",
+    "Front-end development.md",
+    "14 Softwate development.md",
+    "Devops.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",
