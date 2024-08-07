@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10.10 Binary search.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10.10 Binary search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10.10 Binary search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.30 Leetcode problems.md"
+                "file": "10.10 Binary search.md"
               }
             }
           }
@@ -185,10 +185,10 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "10.30 Leetcode problems.md",
     "10 Data structures & Algorithms.md",
     "13 Database.md",
     "images/two-stack-queue.png",
-    "10.30 Leetcode problems.md",
     "10.30 Leetcode problems.md~",
     "conflict-files-obsidian-git.md",
     "10.00 Tree Data Structures.md",
