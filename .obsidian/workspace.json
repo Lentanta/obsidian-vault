@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "069a539c2f1b8fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.10 Binary search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e4c38edaf54e4608",
             "type": "leaf",
             "state": {
@@ -107,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.10 Binary search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.10 Binary search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10.10 Binary search.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,8 +167,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069a539c2f1b8fb8",
+  "active": "e4c38edaf54e4608",
   "lastOpenFiles": [
+    "10.10 Binary search.md",
     "10.30 Leetcode problems.md",
     "10 Data structures & Algorithms.md",
     "13 Database.md",
@@ -202,7 +187,6 @@
     "Docker.md",
     "Using docker without sudo.md",
     "Devops.md",
-    "10.10 Binary search.md",
     "10.01 Linked List.md",
     "14.01 NodeJS.md",
     "14.00 Back-end development.md",
