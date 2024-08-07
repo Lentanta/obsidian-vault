@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "43a0f977c653c7db",
+        "id": "e99d2de629e24e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c38edaf54e4608",
+            "id": "3b5ea0726d9ae7d8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "c9e328098994fa4d",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "10.30 Leetcode problems.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10.30 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10.30 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10.30 Leetcode problems.md"
+              }
             }
           }
         ],
@@ -167,11 +161,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4c38edaf54e4608",
+  "active": "3b5ea0726d9ae7d8",
   "lastOpenFiles": [
+    "10 Data structures & Algorithms.md",
     "10.10 Binary search.md",
     "10.30 Leetcode problems.md",
-    "10 Data structures & Algorithms.md",
     "13 Database.md",
     "images/two-stack-queue.png",
     "10.30 Leetcode problems.md~",
