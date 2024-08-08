@@ -146,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,6 +163,7 @@
   },
   "active": "3b5ea0726d9ae7d8",
   "lastOpenFiles": [
+    "00 Index.md",
     "01 Template.md",
     "10.00 Tree Data Structures.md",
     "11 Computer Networking.md",
@@ -180,7 +181,6 @@
     "13 Database.md",
     "images/two-stack-queue.png",
     "10.30 Leetcode problems.md~",
-    "00 Index.md",
     "12 Languages and Compilers.md",
     "11.01 Comunication protocol.md",
     "14 Software development.md",
