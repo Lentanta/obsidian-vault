@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13.02 Normalization.md",
+                "file": "13 Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13.02 Normalization.md",
+                "file": "13 Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13.02 Normalization.md",
+                "file": "13 Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13.02 Normalization.md"
+                "file": "13 Database.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "52e7b696454c00de",
   "lastOpenFiles": [
-    "13 Database.md",
     "13.02 Normalization.md",
+    "13 Database.md",
     "Notes.md",
     "10.30 Leetcode problems.md",
     "10 Data Structures & Algorithms.md",
