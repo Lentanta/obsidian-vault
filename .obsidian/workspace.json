@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 Database.md",
+                "file": "00 Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a4448127c9667fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14 Software development.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 Database.md",
+                "file": "14 Software development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 Database.md",
+                "file": "14 Software development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 Database.md"
+                "file": "14 Software development.md"
               }
             }
           },
@@ -185,20 +197,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a088a24b0264610f",
+  "active": "3a4448127c9667fa",
   "lastOpenFiles": [
-    "13.00 SQL.md",
-    "13 Database.md",
-    "14.00 Back-end development.md",
     "00 Index.md",
     "15 System Design.md",
+    "14.02 Devops.md",
+    "14 Software development.md",
+    "13 Database.md",
+    "13.00 SQL.md",
+    "14.00 Back-end development.md",
     "13.02 Normalization.md",
     "Notes.md",
     "10.30 Leetcode problems.md",
     "10 Data Structures & Algorithms.md",
     "10.10 Binary search.md",
     "13.01 PostgreSQL.md",
-    "14 Software development.md",
     "01 Template.md",
     "10.00 Tree Data Structures.md",
     "11 Computer Networking.md",
@@ -206,7 +219,6 @@
     "14.01 NodeJS.md",
     "27 Game development.md",
     "Docker.md",
-    "Devops.md",
     "Front-end development.md",
     "conflict-files-obsidian-git.md",
     "images/two-stack-queue.png",
