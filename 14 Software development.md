@@ -25,3 +25,8 @@ UI: Users
 -> I want to create an IAM user 
 -> Create a group
 ![[Screenshot 2024-08-14 at 16.27.26.png]]
+## MFA devises options
+- Virtual MFA dvice
+- U2F
+- Hardware Key Fob MFA
+- AWS GovCloud
