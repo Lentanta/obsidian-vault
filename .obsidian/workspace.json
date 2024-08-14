@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.01 NodeJS.md",
+                "file": "14.02 Devops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e45616549ac3b380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a11dcf5437f1293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14 Software development.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14.01 NodeJS.md",
+                "file": "14 Software development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14.01 NodeJS.md",
+                "file": "14 Software development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.01 NodeJS.md"
+                "file": "14 Software development.md"
               }
             }
           },
@@ -197,12 +221,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a4448127c9667fa",
+  "active": "6a11dcf5437f1293",
   "lastOpenFiles": [
-    "14 Software development.md",
+    "Screenshot 2024-08-14 at 10.50.24.png",
     "00 Index.md",
-    "15 System Design.md",
     "14.02 Devops.md",
+    "14 Software development.md",
+    "15 System Design.md",
+    "14.01 NodeJS.md",
     "13 Database.md",
     "13.00 SQL.md",
     "14.00 Back-end development.md",
@@ -216,7 +242,6 @@
     "10.00 Tree Data Structures.md",
     "11 Computer Networking.md",
     "20 Art.md",
-    "14.01 NodeJS.md",
     "27 Game development.md",
     "Docker.md",
     "Front-end development.md",
@@ -226,7 +251,6 @@
     "12 Languages and Compilers.md",
     "11.01 Comunication protocol.md",
     "Using docker without sudo.md",
-    "10.01 Linked List.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",
