@@ -13,7 +13,7 @@ Don't give permission more than user need
 
 IAM Dashboard
 IAM is not a global service
-Not a best practice to use root user
+Not a best practice to use the root user
 UI: Users 
 -> create user 
 -> I want to create an IAM user 
