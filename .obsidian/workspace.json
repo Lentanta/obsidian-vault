@@ -59,16 +59,13 @@
             "id": "6a11dcf5437f1293",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AWS.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot 2024-08-14 at 10.50.24.png"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "13 Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "13 Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "13 Database.md"
               }
             }
           },
@@ -221,15 +218,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a11dcf5437f1293",
+  "active": "52e7b696454c00de",
   "lastOpenFiles": [
-    "14 Software development.md",
     "00 Index.md",
     "14.02 Devops.md",
+    "Screenshot 2024-08-14 at 10.50.24.png",
     "AWS.md",
+    "14 Software development.md",
     "Screenshot 2024-08-14 at 16.27.26.png",
     "Notes.md",
-    "Screenshot 2024-08-14 at 10.50.24.png",
     "15 System Design.md",
     "14.01 NodeJS.md",
     "13 Database.md",
@@ -252,7 +249,6 @@
     "10.30 Leetcode problems.md~",
     "12 Languages and Compilers.md",
     "11.01 Comunication protocol.md",
-    "Using docker without sudo.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",
