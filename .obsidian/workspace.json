@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 Software development.md",
+                "file": "AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 Software development.md",
+                "file": "AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 Software development.md",
+                "file": "AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14 Software development.md"
+                "file": "AWS.md"
               }
             }
           },
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 417.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +223,12 @@
   },
   "active": "6a11dcf5437f1293",
   "lastOpenFiles": [
-    "Screenshot 2024-08-14 at 16.27.26.png",
+    "14 Software development.md",
     "00 Index.md",
     "14.02 Devops.md",
+    "AWS.md",
+    "Screenshot 2024-08-14 at 16.27.26.png",
     "Notes.md",
-    "14 Software development.md",
     "Screenshot 2024-08-14 at 10.50.24.png",
     "15 System Design.md",
     "14.01 NodeJS.md",
