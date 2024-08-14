@@ -31,3 +31,8 @@ Three options:
 - AWS Management Console (password + MFA)
 - AWS Command Line Interface (CLI) (access key)
 - AWS Software Developer Kit (SDK) (access key)
+
+How to create an access key?
+- Select user -> Security Credentials -> Create access key
+## AWS CloudShell
+---
