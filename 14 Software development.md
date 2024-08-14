@@ -24,3 +24,4 @@ UI: Users
 -> create user 
 -> I want to create an IAM user 
 -> Create a group
+![[Screenshot 2024-08-14 at 16.27.26.png]]
