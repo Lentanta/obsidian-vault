@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 Software development.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 Software development.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14 Software development.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14 Software development.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,17 +222,17 @@
   },
   "active": "6a11dcf5437f1293",
   "lastOpenFiles": [
+    "Notes.md",
+    "14 Software development.md",
     "Screenshot 2024-08-14 at 10.50.24.png",
     "00 Index.md",
     "14.02 Devops.md",
-    "14 Software development.md",
     "15 System Design.md",
     "14.01 NodeJS.md",
     "13 Database.md",
     "13.00 SQL.md",
     "14.00 Back-end development.md",
     "13.02 Normalization.md",
-    "Notes.md",
     "10.30 Leetcode problems.md",
     "10 Data Structures & Algorithms.md",
     "10.10 Binary search.md",
