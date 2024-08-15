@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index.md",
+                "file": "AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 Database.md",
+                "file": "AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 Database.md",
+                "file": "AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 Database.md"
+                "file": "AWS.md"
               }
             }
           },
@@ -218,18 +218,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52e7b696454c00de",
+  "active": "e45616549ac3b380",
   "lastOpenFiles": [
     "00 Index.md",
     "14.02 Devops.md",
-    "Screenshot 2024-08-14 at 10.50.24.png",
-    "AWS.md",
     "14 Software development.md",
+    "Screenshot 2024-08-14 at 10.50.24.png",
+    "13 Database.md",
+    "AWS.md",
     "Screenshot 2024-08-14 at 16.27.26.png",
     "Notes.md",
     "15 System Design.md",
     "14.01 NodeJS.md",
-    "13 Database.md",
     "13.00 SQL.md",
     "14.00 Back-end development.md",
     "13.02 Normalization.md",
