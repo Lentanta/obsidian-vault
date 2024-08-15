@@ -12,3 +12,6 @@ Provider -> APNs -> iOS
 
 Android push notification
 Provider -> FCM -> Android
+## Buffers
+--- 
+An array of byte, on byte is 255 i
