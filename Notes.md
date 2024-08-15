@@ -14,7 +14,7 @@ Android push notification
 Provider -> FCM -> Android
 ## Buffers
 --- 
-An array of bytes, one byte is 8bit (0-255 or 256 character) 
+An array of bytes, one byte is 8bit (0-255 or 256 characters) 
 ## Stream
 ---
-Stream is a flow o
+Stream is a flow of data separated into small chunks
