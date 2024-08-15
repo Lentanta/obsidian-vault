@@ -14,4 +14,4 @@ Android push notification
 Provider -> FCM -> Android
 ## Buffers
 --- 
-An array of byte, on byte is 255 i
+An array of bytes, one byte is 8bit (0-255 or 256 character) 
