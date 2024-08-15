@@ -15,3 +15,6 @@ Provider -> FCM -> Android
 ## Buffers
 --- 
 An array of bytes, one byte is 8bit (0-255 or 256 character) 
+## Stream
+---
+Stream is a flow o
