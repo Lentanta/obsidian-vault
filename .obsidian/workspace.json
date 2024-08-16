@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19f537f83fd67ed5",
+        "id": "43a0f977c653c7db",
         "type": "tabs",
         "children": [
           {
-            "id": "52e7b696454c00de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a088a24b0264610f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a4448127c9667fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14.02 Devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e45616549ac3b380",
+            "id": "069a539c2f1b8fb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a11dcf5437f1293",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot 2024-08-14 at 10.50.24.png"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -191,21 +145,13 @@
                 "file": "AWS.md"
               }
             }
-          },
-          {
-            "id": "e27821462f542203",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 417.5,
+    "width": 315.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -218,37 +164,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e45616549ac3b380",
+  "active": "7a12f947a108e45b",
   "lastOpenFiles": [
-    "AWS.md",
-    "Screenshot 2024-08-16 at 10.34.34.png",
     "Notes.md",
-    "00 Index.md",
-    "14.02 Devops.md",
-    "14 Software development.md",
-    "Screenshot 2024-08-14 at 10.50.24.png",
-    "13 Database.md",
+    "Screenshot 2024-08-16 at 10.34.34.png",
+    "conflict-files-obsidian-git.md",
     "Screenshot 2024-08-14 at 16.27.26.png",
-    "15 System Design.md",
-    "14.01 NodeJS.md",
-    "13.00 SQL.md",
-    "14.00 Back-end development.md",
+    "Screenshot 2024-08-14 at 10.50.24.png",
+    "AWS.md",
+    "14.02 Devops.md",
     "13.02 Normalization.md",
     "10.30 Leetcode problems.md",
-    "10 Data Structures & Algorithms.md",
-    "10.10 Binary search.md",
-    "13.01 PostgreSQL.md",
-    "01 Template.md",
-    "10.00 Tree Data Structures.md",
-    "11 Computer Networking.md",
-    "20 Art.md",
-    "27 Game development.md",
-    "Docker.md",
-    "Front-end development.md",
+    "10 Data structures & Algorithms.md",
+    "00 Index.md",
     "images/two-stack-queue.png",
-    "10.30 Leetcode problems.md~",
-    "12 Languages and Compilers.md",
+    "02 Notes.md",
+    "27.05 How-to & examples.md",
+    "27 Game development.md",
+    "15 System Design.md",
+    "10.10 Binary search.md",
+    "27.01 Groups.md",
+    "20 Art.md",
+    "14 Software development.md",
+    "14.01 NodeJS.md",
+    "11 Computer Networking.md",
     "11.01 Comunication protocol.md",
+    "11.00 OSI Model.md",
+    "14.00 Back-end development.md",
+    "10.20 Binary search.md",
+    "13 Database.md",
+    "12 Languages and Compilers.md",
+    "27.00 Godot engine.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",
