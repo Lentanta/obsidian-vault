@@ -56,3 +56,6 @@ Create Role -> attach policies
 ## Budget setup
 ---
 Billing and Cost Management section
+- Budget: set budgets to get alert to email
+## AWS EC2
+---
