@@ -45,3 +45,8 @@ Create Role -> attach policies
 - Credentials report
 - Access Advisor
 ![[Screenshot 2024-08-16 at 10.34.34.png]]
+## IAM
+--- 
+- User: mapped to physical user, has a password for AWS conosle
+- Groups: contains users only
+- Policies: JSON dco
