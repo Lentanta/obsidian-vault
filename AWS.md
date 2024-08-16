@@ -47,6 +47,12 @@ Create Role -> attach policies
 ![[Screenshot 2024-08-16 at 10.34.34.png]]
 ## IAM
 --- 
-- User: mapped to physical user, has a password for AWS conosle
+- User: mapped to the physical user, has a password for the AWS console
 - Groups: contains users only
-- Policies: JSON dco
+- Policies: JSON doc that outlines permissions for users or groups
+- Roles: for EC2 instances or AWS services
+- Access Keys: access AWS using the CLI or SDK
+- Audit: Credential report & Access Advisor
+## Budget setup
+---
+Billing and Cost Management section
