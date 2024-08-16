@@ -36,3 +36,12 @@ How to create an access key?
 - Select user -> Security Credentials -> Create access key
 ## AWS CloudShell
 ---
+Updating...
+## IAM Roles
+---
+Create Role -> attach policies
+## IAM Security Tools
+---
+- Credentials report
+- Access Advisor
+![[Screenshot 2024-08-16 at 10.34.34.png]]

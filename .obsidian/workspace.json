@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "AWS.md"
               }
             }
           },
@@ -220,8 +220,9 @@
   },
   "active": "e45616549ac3b380",
   "lastOpenFiles": [
-    "AWS.md",
+    "Screenshot 2024-08-16 at 10.34.34.png",
     "Notes.md",
+    "AWS.md",
     "00 Index.md",
     "14.02 Devops.md",
     "14 Software development.md",
