@@ -121,7 +121,11 @@ Dedicated Hosts:
 Deicated Instances:
 - Different from Dedicated Hosts
 - May share hardware with other instances in same account
-- No control over instance placement
-
-
+- No control over instance placement#
+![[Screenshot from 2024-08-19 18-08-46.png]]
+Capacity Resvervations:
+- Reserve On-Demand instances capacity in a specific AZ (Avaliable Zone)
+- No time commitment
+- Charged at On-Demand rate whether you run it or not
+- For short-term, un-interrupted workloads that need to be in a specific AZ
 
