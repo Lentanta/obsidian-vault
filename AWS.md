@@ -114,7 +114,14 @@ Spot Instances:
 - For workloads that are resilient to failure
 Dedicated Hosts:
 - A physical server
-- Allow address comliance requirement and use server-
+- Allow address comliance requirement and use server-bound software licenses
+- Purchasing options: On-demand, Reserved
+- Most expensive option
+- For software that have complicated licensing model
+Deicated Instances:
+- Different from Dedicated Hosts
+- May share hardware with other instances in same account
+- No control over instance placement
 
 
 
