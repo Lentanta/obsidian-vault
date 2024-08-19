@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS.md",
+                "file": "27 Game development.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "27 Game development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "27 Game development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "27 Game development.md"
               }
             }
           }
@@ -166,6 +165,7 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "AWS.md",
     "Screenshot from 2024-08-19 18-39-10.png",
     "Screenshot from 2024-08-19 18-08-46.png",
     "Screenshot from 2024-08-19 15-42-24.png",
@@ -174,7 +174,6 @@
     "conflict-files-obsidian-git.md",
     "Screenshot 2024-08-14 at 16.27.26.png",
     "Screenshot 2024-08-14 at 10.50.24.png",
-    "AWS.md",
     "14.02 Devops.md",
     "13.02 Normalization.md",
     "10.30 Leetcode problems.md",
@@ -202,7 +201,6 @@
     "images/tree-search.webp",
     "images",
     "Postorder-Traversal-of-Binary-Tree-1024.webp",
-    "Preorder-Traversal-of-Binary-Tree 1.webp",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",
