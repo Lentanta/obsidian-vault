@@ -114,7 +114,7 @@ Spot Instances:
 - For workloads that are resilient to failure
 Dedicated Hosts:
 - A physical server
-- 
+- Allow address comliance requirement and use server-
 
 
 
