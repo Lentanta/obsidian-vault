@@ -91,3 +91,17 @@ Port:
 ---
 Actions -> security -> Modify IAM role
 ![[Screenshot from 2024-08-19 15-42-24.png]]
+### Instances options
+On-demaned Instances:
+- Pay for what you use
+- Highest cost and no upfont payment
+- No long-term commitment
+- For **short-term** and **un-interrupted workloads**
+Reserved:
+- Reserve a spesific instance attributes (Type, Region, Tenancy, OS)
+- Reservation Period (From 1 - 3 years)
+- Payment options: No Upfront, Partial Upfront, All Upfront
+- Reserved Instance's Scope: Regional or Zonal 
+
+
+
