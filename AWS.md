@@ -97,11 +97,24 @@ On-demaned Instances:
 - Highest cost and no upfont payment
 - No long-term commitment
 - For **short-term** and **un-interrupted workloads**
-Reserved:
+Reserved Instances:
 - Reserve a spesific instance attributes (Type, Region, Tenancy, OS)
 - Reservation Period (From 1 - 3 years)
 - Payment options: No Upfront, Partial Upfront, All Upfront
-- Reserved Instance's Scope: Regional or Zonal 
+- Reserved Instance's Scope: **Regional** or **Zonal**
+- For steady-state usage applications
+Saving Plans Instances:
+- Same as Reserved Instances
+- Commit to a certain type of usage
+- Usage beyond is billed at **On-demaned** price
+- Locked to a specific instance family & AWS region
+Spot Instances:
+- Can lose at any point of time if your max price is less than the current spot price
+- The cheapest intances
+- For workloads that are resilient to failure
+Dedicated Hosts:
+- A physical server
+- 
 
 
 
