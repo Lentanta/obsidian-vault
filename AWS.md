@@ -130,4 +130,7 @@ Capacity Resvervations:
 - For short-term, un-interrupted workloads that need to be in a specific AZ
 ## EC2 Spot Instances
 ---
-Can only cancel EC2SI request that are open, 
+- Can only cancel EC2SI request that are open, active, or disabled.
+- **Cancelling a EC2SI Request does not terminate instances**
+### Spot Fleets
+![[Screenshot from 2024-08-19 18-39-10.png]]
