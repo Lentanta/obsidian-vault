@@ -87,4 +87,7 @@ Port:
 - Generate key pair and dowload
 - `chmod 400 <file-key>.pem`
 - `ssh -i <file-key>.pem ec2-user@<ec2-ipv4>`
-- 
+## Modify EC2 IAM role
+---
+Actions -> security -> Modify IAM role
+![[Screenshot from 2024-08-19 15-42-24.png]]
