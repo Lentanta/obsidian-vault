@@ -68,4 +68,10 @@ Ex: m5.2xlarge
 ---
 - Only contain allow rules
 - Can reference by IP or by security group
-- Can be attec
+- Can be attached to mulitple instances
+- Locked down to a region / VPC combination
+- Live outside the EC2
+- Good to maitain one separate security group for SSH access
+By default:
+- All inbound traffic is blocked
+- All outbound traffic is authorised 
