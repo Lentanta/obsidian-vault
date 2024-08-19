@@ -74,4 +74,11 @@ Ex: m5.2xlarge
 - Good to maitain one separate security group for SSH access
 By default:
 - All inbound traffic is blocked
-- All outbound traffic is authorised 
+- All outbound traffic is authorised
+Port:
+- 22 = SSH
+- 21 = FTP (File Transfer Protocal)
+- 22 = SFTP 
+- 80 = HTTP
+- 443 = HTTPS
+- 3389 - RDP (For window)
