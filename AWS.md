@@ -59,3 +59,13 @@ Billing and Cost Management section
 - Budget: set budgets to get alert to email
 ## AWS EC2
 ---
+**Instance types**
+Ex: m5.2xlarge
+- m: instance class
+- 5: generation
+- 2xlarge: size within the instance class
+## Security Groups
+---
+- Only contain allow rules
+- Can reference by IP or by security group
+- Can be attec
