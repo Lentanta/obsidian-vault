@@ -128,4 +128,6 @@ Capacity Resvervations:
 - No time commitment
 - Charged at On-Demand rate whether you run it or not
 - For short-term, un-interrupted workloads that need to be in a specific AZ
-
+## EC2 Spot Instances
+---
+Can only cancel EC2SI request that are open, 
