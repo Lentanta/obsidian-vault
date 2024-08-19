@@ -82,3 +82,9 @@ Port:
 - 80 = HTTP
 - 443 = HTTPS
 - 3389 - RDP (For window)
+## SSH EC2
+---
+- Generate key pair and dowload
+- `chmod 400 <file-key>.pem`
+- `ssh -i <file-key>.pem ec2-user@<ec2-ipv4>`
+- 
