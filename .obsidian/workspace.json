@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS.md",
+                "file": "14.02 Devops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "14.02 Devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "14.02 Devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "14.02 Devops.md"
               }
             }
           }
@@ -165,8 +165,15 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
-    "27 Game development.md",
+    "14.30 Docker.md",
+    "14 Software development.md",
+    "00 Index.md",
+    "14.02 Devops.md",
+    "11 Computer Networking.md",
+    "13 Database.md",
+    "12 Languages and Compilers.md",
     "AWS.md",
+    "27 Game development.md",
     "Screenshot from 2024-08-19 18-39-10.png",
     "Screenshot from 2024-08-19 18-08-46.png",
     "Screenshot from 2024-08-19 15-42-24.png",
@@ -175,11 +182,9 @@
     "conflict-files-obsidian-git.md",
     "Screenshot 2024-08-14 at 16.27.26.png",
     "Screenshot 2024-08-14 at 10.50.24.png",
-    "14.02 Devops.md",
     "13.02 Normalization.md",
     "10.30 Leetcode problems.md",
     "10 Data structures & Algorithms.md",
-    "00 Index.md",
     "images/two-stack-queue.png",
     "02 Notes.md",
     "27.05 How-to & examples.md",
@@ -187,15 +192,11 @@
     "10.10 Binary search.md",
     "27.01 Groups.md",
     "20 Art.md",
-    "14 Software development.md",
     "14.01 NodeJS.md",
-    "11 Computer Networking.md",
     "11.01 Comunication protocol.md",
     "11.00 OSI Model.md",
     "14.00 Back-end development.md",
     "10.20 Binary search.md",
-    "13 Database.md",
-    "12 Languages and Compilers.md",
     "27.00 Godot engine.md",
     "images/binary-search.png",
     "images/tree-search.webp",
