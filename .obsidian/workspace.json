@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27 Game development.md",
+                "file": "AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27 Game development.md",
+                "file": "AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27 Game development.md",
+                "file": "AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27 Game development.md"
+                "file": "AWS.md"
               }
             }
           }
@@ -165,6 +165,7 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "27 Game development.md",
     "AWS.md",
     "Screenshot from 2024-08-19 18-39-10.png",
     "Screenshot from 2024-08-19 18-08-46.png",
@@ -182,7 +183,6 @@
     "images/two-stack-queue.png",
     "02 Notes.md",
     "27.05 How-to & examples.md",
-    "27 Game development.md",
     "15 System Design.md",
     "10.10 Binary search.md",
     "27.01 Groups.md",
