@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "10.00 Tree Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "10.00 Tree Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "10.00 Tree Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "10.00 Tree Data Structures.md"
               }
             }
           }
@@ -165,27 +166,31 @@
   },
   "active": "069a539c2f1b8fb8",
   "lastOpenFiles": [
+    "10 Data structures & Algorithms.md",
     "00 Index.md",
-    "01 Template.md",
-    "Notes.md",
+    "13 Database.md",
+    "13.01 PostgreSQL.md",
+    "15 System Design.md",
+    "14.00 Back-end development.md",
+    "13.02 Normalization.md",
+    "13.00 SQL.md",
+    "12 Languages and Compilers.md",
+    "12.00 Go.md",
+    "11 Computer Networking.md",
+    "14 Software development.md",
     "27 Game development.md",
+    "03 Notes.md",
+    "01 Template.md",
     "27.01 Groups.md",
     "27.05 How-to & examples.md",
     "Using docker without sudo.md",
-    "14 Software development.md",
     "Front-end development.md",
     "14.31 NodeJS.md",
     "14.02 Devops.md",
-    "14.00 Back-end development.md",
     "14.20 Amazon Web Services.md",
     "14.30 Docker.md",
-    "15 System Design.md",
-    "11 Computer Networking.md",
     "11.00 OSI Model.md",
     "11.01 Comunication protocol.md",
-    "10 Data structures & Algorithms.md",
-    "13 Database.md",
-    "12 Languages and Compilers.md",
     "Screenshot from 2024-08-19 18-39-10.png",
     "Screenshot from 2024-08-19 18-08-46.png",
     "Screenshot from 2024-08-19 15-42-24.png",
@@ -193,11 +198,7 @@
     "conflict-files-obsidian-git.md",
     "Screenshot 2024-08-14 at 16.27.26.png",
     "Screenshot 2024-08-14 at 10.50.24.png",
-    "13.02 Normalization.md",
-    "10.30 Leetcode problems.md",
     "images/two-stack-queue.png",
-    "02 Notes.md",
-    "10.10 Binary search.md",
     "images/binary-search.png",
     "images/tree-search.webp",
     "images",
