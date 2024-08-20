@@ -1,4 +1,3 @@
-#### Note links
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
