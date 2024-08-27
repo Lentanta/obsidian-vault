@@ -3,7 +3,7 @@
   "accentColor": "#0091ff",
   "baseFontSize": 18,
   "interfaceFontFamily": "FreeSans",
-  "textFontFamily": "FreeSans",
+  "textFontFamily": "FreeSans,Helvetica",
   "showViewHeader": true,
   "theme": "moonstone",
   "monospaceFontFamily": "Fira Mono",
