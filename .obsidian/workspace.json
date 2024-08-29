@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Notes.md",
+                "file": "14.20 Amazon Web Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Notes.md",
+                "file": "14.20 Amazon Web Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Notes.md",
+                "file": "14.20 Amazon Web Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Notes.md"
+                "file": "14.20 Amazon Web Services.md"
               }
             }
           }
@@ -165,6 +166,7 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
+    "03 Notes.md",
     "14.20 Amazon Web Services.md",
     "Pasted image 20240828161657.png",
     "Pasted image 20240828145211.png",
@@ -189,7 +191,6 @@
     "12.00 Go.md",
     "11 Computer Networking.md",
     "27 Game development.md",
-    "03 Notes.md",
     "01 Template.md",
     "27.01 Groups.md",
     "27.05 How-to & examples.md",
