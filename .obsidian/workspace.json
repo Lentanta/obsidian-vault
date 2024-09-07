@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.20 Amazon Web Services.md",
-                "mode": "source",
+                "file": "10.30 Leetcode problems.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14.20 Amazon Web Services.md",
+                "file": "10.30 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14.20 Amazon Web Services.md",
+                "file": "10.30 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.20 Amazon Web Services.md"
+                "file": "10.30 Leetcode problems.md"
               }
             }
           }
@@ -166,10 +165,11 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
+    "10 Data structures & Algorithms.md",
+    "14.20 Amazon Web Services.md",
     "Pasted image 20240830100253.png",
     "Pasted image 20240830095925.png",
     "03 Notes.md",
-    "14.20 Amazon Web Services.md",
     "Pasted image 20240828161657.png",
     "Pasted image 20240828145211.png",
     "Pasted image 20240828144918.png",
@@ -178,11 +178,9 @@
     "Screenshot from 2024-08-22 16-30-34.png",
     "Screenshot from 2024-08-22 15-57-29.png",
     "Screenshot from 2024-08-22 10-07-12.png",
-    "Screenshot from 2024-08-21 15-34-16.png",
     "14 Software development.md",
     "00 Index.md",
     "10.00 Tree Data Structures.md",
-    "10 Data structures & Algorithms.md",
     "13 Database.md",
     "13.01 PostgreSQL.md",
     "15 System Design.md",
