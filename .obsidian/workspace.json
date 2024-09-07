@@ -11,12 +11,8 @@
             "id": "f7da693e976f1256",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Index.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 Index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,6 +158,8 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
+    "00 Index.md",
+    "13 Database.md",
     "11.00 OSI Model.md",
     "11 Computer Networking.md",
     "10.30 Leetcode problems.md",
@@ -182,9 +177,7 @@
     "Screenshot from 2024-08-22 15-57-29.png",
     "Screenshot from 2024-08-22 10-07-12.png",
     "14 Software development.md",
-    "00 Index.md",
     "10.00 Tree Data Structures.md",
-    "13 Database.md",
     "13.01 PostgreSQL.md",
     "15 System Design.md",
     "14.00 Back-end development.md",
