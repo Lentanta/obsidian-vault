@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19f537f83fd67ed5",
+        "id": "46414daa66ee21a2",
         "type": "tabs",
         "children": [
           {
-            "id": "52e7b696454c00de",
+            "id": "f7da693e976f1256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 Database.md",
+                "file": "14.21 Kubernetes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a088a24b0264610f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a4448127c9667fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14.02 Devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e45616549ac3b380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a11dcf5437f1293",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot 2024-08-14 at 10.50.24.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -132,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "14.21 Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "14.21 Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,24 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "14.21 Kubernetes.md"
               }
-            }
-          },
-          {
-            "id": "e27821462f542203",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 417.5,
+    "width": 315.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -218,44 +164,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e45616549ac3b380",
+  "active": "f7da693e976f1256",
   "lastOpenFiles": [
-    "AWS.md",
-    "Screenshot 2024-08-16 at 10.34.34.png",
-    "Notes.md",
-    "00 Index.md",
-    "14.02 Devops.md",
     "14 Software development.md",
-    "Screenshot 2024-08-14 at 10.50.24.png",
+    "14.21 Kubernetes.md",
+    "00 Index.md",
+    "04 Plans for me.md",
     "13 Database.md",
-    "Screenshot 2024-08-14 at 16.27.26.png",
+    "11.00 OSI Model.md",
+    "11 Computer Networking.md",
+    "10.30 Leetcode problems.md",
+    "10 Data structures & Algorithms.md",
+    "14.20 Amazon Web Services.md",
+    "Pasted image 20240830100253.png",
+    "Pasted image 20240830095925.png",
+    "03 Notes.md",
+    "Pasted image 20240828161657.png",
+    "Pasted image 20240828145211.png",
+    "Pasted image 20240828144918.png",
+    "Pasted image 20240827110520.png",
+    "Screenshot from 2024-08-22 17-00-48.png",
+    "Screenshot from 2024-08-22 16-30-34.png",
+    "Screenshot from 2024-08-22 15-57-29.png",
+    "Screenshot from 2024-08-22 10-07-12.png",
+    "10.00 Tree Data Structures.md",
+    "13.01 PostgreSQL.md",
     "15 System Design.md",
-    "14.01 NodeJS.md",
-    "13.00 SQL.md",
     "14.00 Back-end development.md",
     "13.02 Normalization.md",
-    "10.30 Leetcode problems.md",
-    "10 Data Structures & Algorithms.md",
-    "10.10 Binary search.md",
-    "13.01 PostgreSQL.md",
-    "01 Template.md",
-    "10.00 Tree Data Structures.md",
-    "11 Computer Networking.md",
-    "20 Art.md",
-    "27 Game development.md",
-    "Docker.md",
-    "Front-end development.md",
-    "images/two-stack-queue.png",
-    "10.30 Leetcode problems.md~",
+    "13.00 SQL.md",
     "12 Languages and Compilers.md",
-    "11.01 Comunication protocol.md",
-    "images/binary-search.png",
-    "images/tree-search.webp",
+    "12.00 Go.md",
+    "27 Game development.md",
+    "01 Template.md",
+    "27.01 Groups.md",
+    "27.05 How-to & examples.md",
+    "Using docker without sudo.md",
+    "Front-end development.md",
+    "14.31 NodeJS.md",
     "images",
-    "Postorder-Traversal-of-Binary-Tree-1024.webp",
-    "Preorder-Traversal-of-Binary-Tree 1.webp",
-    "Preorder-Traversal-of-Binary-Tree 2.webp",
-    "Preorder-Traversal-of-Binary-Tree.webp",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",

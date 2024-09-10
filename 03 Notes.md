@@ -18,3 +18,9 @@ An array of bytes, one byte is 8bit (0-255 or 256 characters)
 ## Stream
 ---
 Stream is a flow of data separated into small chunks
+
+
+Concurrency is about multiple tasks that start, run, and complete in overlapping time
+periods in no specific order. Parallelism is about multiple tasks running at the same time
+on hardware with multiple computing resources, like multicore processors. Concurrency
+and parallelism are not the same thing.
