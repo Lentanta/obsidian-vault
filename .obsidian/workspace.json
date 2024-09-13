@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.20 Amazon Web Services.md",
+                "file": "10.30 Leetcode problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14.20 Amazon Web Services.md",
+                "file": "10.30 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14.20 Amazon Web Services.md",
+                "file": "10.30 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.20 Amazon Web Services.md"
+                "file": "10.30 Leetcode problems.md"
               }
             }
           },
@@ -174,11 +174,11 @@
   },
   "active": "6a11dcf5437f1293",
   "lastOpenFiles": [
+    "14.20 Amazon Web Services.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
     "10.30 Leetcode problems.md",
     "10 Data Structures & Algorithms.md",
     "00 Index.md",
-    "14.20 Amazon Web Services.md",
     "14 Software development.md",
     "10.10 Binary search.md",
     "Screenshot 2024-08-14 at 10.50.24.png",
@@ -192,7 +192,6 @@
     "Screenshot from 2024-08-19 18-39-10.png",
     "Screenshot from 2024-08-19 18-08-46.png",
     "Screenshot from 2024-08-19 15-42-24.png",
-    "Pasted image 20240830100253.png",
     "14.31 NodeJS.md",
     "14.30 Docker.md",
     "14.21 Kubernetes.md",
