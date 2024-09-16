@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.00 Tree Data Structures.md",
+                "file": "10.30 Leetcode problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.00 Tree Data Structures.md",
+                "file": "10.30 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.00 Tree Data Structures.md",
+                "file": "10.30 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.00 Tree Data Structures.md"
+                "file": "10.30 Leetcode problems.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   "active": "6a11dcf5437f1293",
   "lastOpenFiles": [
     "10 Data Structures & Algorithms.md",
-    "10.30 Leetcode problems.md",
     "10.00 Tree Data Structures.md",
+    "10.30 Leetcode problems.md",
     "14.20 Amazon Web Services.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
     "00 Index.md",
