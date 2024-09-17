@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -176,8 +175,8 @@
   "lastOpenFiles": [
     "10 Data Structures & Algorithms.md",
     "10.00 Tree Data Structures.md",
-    "14.20 Amazon Web Services.md",
     "10.30 Leetcode problems.md",
+    "14.20 Amazon Web Services.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
     "00 Index.md",
     "14 Software development.md",
