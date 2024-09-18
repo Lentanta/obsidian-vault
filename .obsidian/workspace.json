@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46414daa66ee21a2",
+        "id": "19f537f83fd67ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "f7da693e976f1256",
+            "id": "6a11dcf5437f1293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.02 Graph.md",
+                "file": "10.30 Leetcode problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.02 Graph.md",
+                "file": "10.30 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.02 Graph.md",
+                "file": "10.30 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,16 +141,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.02 Graph.md"
+                "file": "10.30 Leetcode problems.md"
               }
+            }
+          },
+          {
+            "id": "e27821462f542203",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 417.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,44 +171,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7da693e976f1256",
+  "active": "6a11dcf5437f1293",
   "lastOpenFiles": [
-    "10 Data structures & Algorithms.md",
     "10.02 Graph.md",
+    "10 Data structures & Algorithms.md",
+    "13.00 SQL.md",
     "10.30 Leetcode problems.md",
-    "Screenshot 2024-09-12 at 15.55.47.png",
-    "14.21 Kubernetes.md",
-    "14 Software development.md",
-    "00 Index.md",
-    "04 Plans for me.md",
-    "13 Database.md",
-    "11.00 OSI Model.md",
-    "11 Computer Networking.md",
+    "10 Data Structures & Algorithms.md",
+    "10.00 Tree Data Structures.md",
     "14.20 Amazon Web Services.md",
-    "Pasted image 20240830100253.png",
-    "Pasted image 20240830095925.png",
-    "03 Notes.md",
-    "Pasted image 20240828161657.png",
-    "Pasted image 20240828145211.png",
-    "Pasted image 20240828144918.png",
-    "Pasted image 20240827110520.png",
+    "Screenshot 2024-09-12 at 15.55.47.png",
+    "00 Index.md",
+    "14 Software development.md",
+    "10.10 Binary search.md",
+    "Screenshot 2024-08-14 at 10.50.24.png",
+    "13 Database.md",
+    "AWS.md",
     "Screenshot from 2024-08-22 17-00-48.png",
     "Screenshot from 2024-08-22 16-30-34.png",
     "Screenshot from 2024-08-22 15-57-29.png",
-    "10.00 Tree Data Structures.md",
-    "13.01 PostgreSQL.md",
+    "Screenshot from 2024-08-22 10-07-12.png",
+    "Screenshot from 2024-08-21 15-34-16.png",
+    "Screenshot from 2024-08-19 18-39-10.png",
+    "Screenshot from 2024-08-19 18-08-46.png",
+    "Screenshot from 2024-08-19 15-42-24.png",
+    "14.31 NodeJS.md",
+    "14.30 Docker.md",
+    "14.21 Kubernetes.md",
+    "12.00 Go.md",
+    "04 Plans for me.md",
+    "03 Notes.md",
+    "Notes.md",
+    "14.02 Devops.md",
     "15 System Design.md",
+    "14.01 NodeJS.md",
     "14.00 Back-end development.md",
     "13.02 Normalization.md",
-    "13.00 SQL.md",
-    "12 Languages and Compilers.md",
-    "12.00 Go.md",
-    "27 Game development.md",
+    "13.01 PostgreSQL.md",
     "01 Template.md",
-    "27.01 Groups.md",
-    "27.05 How-to & examples.md",
-    "Using docker without sudo.md",
-    "Front-end development.md",
+    "10.30 Leetcode problems.md~",
     "images",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
