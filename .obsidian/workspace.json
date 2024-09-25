@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphic.md",
+                "file": "14.20 Amazon Web Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphic.md",
+                "file": "14.20 Amazon Web Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphic.md",
+                "file": "14.20 Amazon Web Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +142,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphic.md"
+                "file": "14.20 Amazon Web Services.md"
               }
+            }
+          },
+          {
+            "id": "9853afb6625bb1c4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -166,8 +174,8 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
-    "00 Index.md",
     "Computer Graphic.md",
+    "00 Index.md",
     "10.30 Leetcode problems.md",
     "conflict-files-obsidian-git.md",
     "10.02 Graph.md",
