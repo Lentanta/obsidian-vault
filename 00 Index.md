@@ -6,7 +6,6 @@
 ## 10-19 Computer science
 [[10 Data Structures & Algorithms]] 
 [[11 Computer Networking]]
-[[12 Languages and Compilers]]
 [[13 Database]]
 [[14 Software development]]
 [[15 System Design]]
