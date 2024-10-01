@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.21 Kubernetes.md",
-                "mode": "source",
+                "file": "10.30 Leetcode problems.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14.21 Kubernetes.md",
+                "file": "10.30 Leetcode problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14.21 Kubernetes.md",
+                "file": "10.30 Leetcode problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.21 Kubernetes.md"
+                "file": "10.30 Leetcode problems.md"
               }
             }
           },
@@ -173,19 +174,19 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
+    "10 Data structures & Algorithms.md",
+    "10.30 Leetcode problems.md",
+    "00 Index.md",
+    "14.21 Kubernetes.md",
+    "11.00 OSI Model.md",
     "14.20 Amazon Web Services.md",
     "Computer Graphic.md",
-    "00 Index.md",
-    "10.30 Leetcode problems.md",
     "conflict-files-obsidian-git.md",
     "10.02 Graph.md",
-    "10 Data structures & Algorithms.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
-    "14.21 Kubernetes.md",
     "14 Software development.md",
     "04 Plans for me.md",
     "13 Database.md",
-    "11.00 OSI Model.md",
     "11 Computer Networking.md",
     "Pasted image 20240830100253.png",
     "Pasted image 20240830095925.png",
