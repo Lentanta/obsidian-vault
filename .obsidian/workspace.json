@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.30 Leetcode problems.md",
-                "mode": "preview",
+                "file": "10.10 Binary search.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "89159115170c4242",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/binary-search.png"
               }
             }
           }
@@ -69,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f5d3283d7a0159c",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10.10 Binary search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "10.10 Binary search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.30 Leetcode problems.md"
+                "file": "10.10 Binary search.md"
               }
             }
           },
@@ -174,6 +183,8 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
+    "images/binary-search.png",
+    "10.10 Binary search.md",
     "10 Data structures & Algorithms.md",
     "10.30 Leetcode problems.md",
     "00 Index.md",
@@ -208,8 +219,6 @@
     "12.00 Go.md",
     "27 Game development.md",
     "01 Template.md",
-    "27.01 Groups.md",
-    "27.05 How-to & examples.md",
     "images",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
