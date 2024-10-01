@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Index.md",
+                "file": "10.10 Binary search.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Index.md",
+                "file": "10.10 Binary search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Index.md",
+                "file": "10.10 Binary search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Index.md"
+                "file": "10.10 Binary search.md"
               }
             }
           },
@@ -183,16 +183,21 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
-    "11 Computer Networking.md",
+    "10.01 Linked List.md",
+    "10.00 Tree Data Structures.md",
+    "10 Data structures & Algorithms.md",
+    "03 Notes.md",
+    "04 Plans for me.md",
+    "12 Languages and Compilers.md",
+    "12.00 Go.md",
     "11.01 Comunication protocol.md",
+    "13 Database.md",
     "00 Index.md",
+    "11 Computer Networking.md",
     "14 Software development.md",
     "14.20 Amazon Web Services.md",
     "14.00 Back-end development.md",
     "15 System Design.md",
-    "13 Database.md",
-    "12 Languages and Compilers.md",
-    "03 Notes.md",
     "01 Template.md",
     "14.30 Docker.md",
     "20 Art.md",
@@ -204,12 +209,8 @@
     "10.30 Leetcode problems.md",
     "10.10 Binary search.md",
     "images/binary-search.png",
-    "10 Data structures & Algorithms.md",
     "Computer Graphic.md",
-    "conflict-files-obsidian-git.md",
-    "10.02 Graph.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
-    "04 Plans for me.md",
     "Pasted image 20240830100253.png",
     "Pasted image 20240830095925.png",
     "Pasted image 20240828161657.png",
@@ -218,7 +219,6 @@
     "Pasted image 20240827110520.png",
     "Screenshot from 2024-08-22 17-00-48.png",
     "Screenshot from 2024-08-22 16-30-34.png",
-    "10.00 Tree Data Structures.md",
     "images",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
