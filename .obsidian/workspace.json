@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.10 Binary search.md",
+                "file": "10.00 Tree Data Structures.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.10 Binary search.md",
+                "file": "10.00 Tree Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.10 Binary search.md",
+                "file": "10.00 Tree Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.10 Binary search.md"
+                "file": "10.00 Tree Data Structures.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "f7da693e976f1256",
   "lastOpenFiles": [
+    "10 Data structures & Algorithms.md",
+    "10.10 Binary search.md",
     "10.01 Linked List.md",
     "10.00 Tree Data Structures.md",
-    "10 Data structures & Algorithms.md",
     "03 Notes.md",
     "04 Plans for me.md",
     "12 Languages and Compilers.md",
@@ -207,7 +208,6 @@
     "13.01 PostgreSQL.md",
     "11.00 OSI Model.md",
     "10.30 Leetcode problems.md",
-    "10.10 Binary search.md",
     "images/binary-search.png",
     "Computer Graphic.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
