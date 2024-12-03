@@ -16,7 +16,21 @@
                 "file": "10.00 Tree Data Structures.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "10.00 Tree Data Structures"
+            }
+          },
+          {
+            "id": "ba42320b907181d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -26,10 +40,13 @@
               "type": "image",
               "state": {
                 "file": "images/binary-search.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "binary-search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -72,7 +93,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -103,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 10.00 Tree Data Structures"
             }
           },
           {
@@ -115,7 +140,9 @@
                 "file": "10.00 Tree Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 10.00 Tree Data Structures"
             }
           },
           {
@@ -126,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -142,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -152,7 +185,9 @@
               "type": "outline",
               "state": {
                 "file": "10.00 Tree Data Structures.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10.00 Tree Data Structures"
             }
           },
           {
@@ -160,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -181,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7da693e976f1256",
+  "active": "ba42320b907181d5",
   "lastOpenFiles": [
     "10 Data structures & Algorithms.md",
     "10.10 Binary search.md",
