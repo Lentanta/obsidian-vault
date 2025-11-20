@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "46414daa66ee21a2",
+        "id": "121780b41412acd3",
         "type": "tabs",
         "children": [
           {
-            "id": "f7da693e976f1256",
+            "id": "4098edd1ff3671b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.00 Tree Data Structures.md",
-                "mode": "preview",
+                "file": "11 Computer Networking.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.00 Tree Data Structures"
-            }
-          },
-          {
-            "id": "ba42320b907181d5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "89159115170c4242",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/binary-search.png"
-              },
-              "icon": "lucide-image",
-              "title": "binary-search"
+              "title": "11 Computer Networking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,52 +190,58 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba42320b907181d5",
+  "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
-    "10 Data structures & Algorithms.md",
-    "10.10 Binary search.md",
-    "10.01 Linked List.md",
-    "10.00 Tree Data Structures.md",
+    "11.00 OSI Model.md",
+    "01 Template.md",
     "03 Notes.md",
     "04 Plans for me.md",
+    "Untitled 2.base",
+    "Untitled.base",
+    "Screenshot from 2024-08-22 17-00-48.png",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Screenshot from 2024-08-22 15-57-29.png",
+    "00 Index.md",
+    "images/binary-search.png",
+    "Untitled 1.base",
+    "27 Game development.md",
+    "20 Art.md",
+    "14 Software development.md",
+    "14.00 Back-end development.md",
+    "13 Database.md",
+    "13.00 SQL.md",
+    "10.00 Tree Data Structures.md",
+    "10 Data structures & Algorithms.md",
+    "Screenshot 2024-08-16 at 10.34.34.png",
+    "Pasted image 20240828161657.png",
+    "Pasted image 20240827110520.png",
+    "10.10 Binary search.md",
+    "10.01 Linked List.md",
     "12 Languages and Compilers.md",
     "12.00 Go.md",
     "11.01 Comunication protocol.md",
-    "13 Database.md",
-    "00 Index.md",
     "11 Computer Networking.md",
-    "14 Software development.md",
     "14.20 Amazon Web Services.md",
-    "14.00 Back-end development.md",
     "15 System Design.md",
-    "01 Template.md",
     "14.30 Docker.md",
-    "20 Art.md",
     "14.31 NodeJS.md",
     "14.21 Kubernetes.md",
     "13.02 Normalization.md",
     "13.01 PostgreSQL.md",
-    "11.00 OSI Model.md",
-    "10.30 Leetcode problems.md",
-    "images/binary-search.png",
-    "Computer Graphic.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
     "Pasted image 20240830100253.png",
     "Pasted image 20240830095925.png",
-    "Pasted image 20240828161657.png",
     "Pasted image 20240828145211.png",
-    "Pasted image 20240828144918.png",
-    "Pasted image 20240827110520.png",
-    "Screenshot from 2024-08-22 17-00-48.png",
-    "Screenshot from 2024-08-22 16-30-34.png",
     "images",
     "Vault",
     "https:/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>@github.com/Lentanta/my-vault",
     "https:/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>@github.com/Lentanta",
-    "https:/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>@github.com",
-    "https:"
+    "https:/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>@github.com"
   ]
 }
