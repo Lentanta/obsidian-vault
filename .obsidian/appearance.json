@@ -10,5 +10,6 @@
   "enabledCssSnippets": [
     "styles",
     "custom-editor"
-  ]
+  ],
+  "showRibbon": true
 }
