@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 Computer Networking.md",
+                "file": "04 Plans for me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 Computer Networking"
+              "title": "04 Plans for me"
             }
           }
         ]
@@ -197,6 +197,12 @@
   },
   "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
+    "10.01 Linked List.md",
+    "10.10 Binary search.md",
+    "10.30 Leetcode problems.md",
+    "11 Computer Networking.md",
+    "12.00 Go.md",
+    "12 Languages and Compilers.md",
     "11.00 OSI Model.md",
     "01 Template.md",
     "03 Notes.md",
@@ -221,19 +227,13 @@
     "Screenshot 2024-08-16 at 10.34.34.png",
     "Pasted image 20240828161657.png",
     "Pasted image 20240827110520.png",
-    "10.10 Binary search.md",
-    "10.01 Linked List.md",
-    "12 Languages and Compilers.md",
-    "12.00 Go.md",
     "11.01 Comunication protocol.md",
-    "11 Computer Networking.md",
     "14.20 Amazon Web Services.md",
     "15 System Design.md",
     "14.30 Docker.md",
     "14.31 NodeJS.md",
     "14.21 Kubernetes.md",
     "13.02 Normalization.md",
-    "13.01 PostgreSQL.md",
     "Screenshot 2024-09-12 at 15.55.47.png",
     "Pasted image 20240830100253.png",
     "Pasted image 20240830095925.png",
