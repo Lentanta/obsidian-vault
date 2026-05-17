@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "15 System Design.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -213,6 +213,7 @@
   },
   "active": "a376f9e9777781ff",
   "lastOpenFiles": [
+    "Pasted image 20260517190739.png",
     "00 Index.md",
     "10.02 Graph.md",
     "11.01 Comunication protocol.md",
@@ -252,7 +253,6 @@
     "20 Art.md",
     "Screenshot from 2024-08-22 15-57-29.png",
     "images/binary-search.png",
-    "27 Game development.md",
     "Pasted image 20240827110520.png",
     "images",
     "Vault",
