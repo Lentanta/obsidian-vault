@@ -20,4 +20,11 @@ Fan-out is **the distribution of messages by a service or message router to mul
 - ***Value Object***: an immutable object defined by its attributes, not identity.
   A Value Object can contain a method/function to support it (e.g checking valid Email)
 - ***Aggregate***: A group of entities/value objects treated as a single unit
-- 
+- ***Aggregate Root***: The single entry point that guards that group.
+```js
+// ❌ Bad - outside code directly mutates a child
+order.items.push(new OrderItem(productId, qty));
+
+// ✅ Good - root controls all changes
+order.addItem(productId, qty);
+```
