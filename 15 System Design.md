@@ -18,3 +18,4 @@ Fan-out is **the distribution of messages by a service or message router to mul
 
 - ***Entity***: an object with a unique identity that persists over time (e.g a User with ID)
 - ***Value Object***: an immutable object defined by its attributes, not identity.
+  An Value Object and contain 
