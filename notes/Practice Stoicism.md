@@ -1,0 +1,1 @@
+- Tập luyện _Amor Fati_ (Tình yêu của số phận): Chấp nhận những  

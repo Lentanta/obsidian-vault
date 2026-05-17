@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Domain Driven Design.md",
+                "file": "notes/Practice Stoicism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain Driven Design"
+              "title": "Practice Stoicism"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
+    "notes/Domain Driven Design.md",
+    "notes/Practice Stoicism.md",
     "15 System Design.md",
     "00 Index.md",
     "01 Template.md",
@@ -214,7 +216,6 @@
     "13.01 PostgreSQL.md",
     "13.02 Normalization.md",
     "14 Software development.md",
-    "notes/Domain Driven Design.md",
     "27.05 How-to & examples.md",
     "notes",
     "11.00 OSI Model.md",
@@ -233,7 +234,6 @@
     "Screenshot from 2024-08-22 15-57-29.png",
     "Screenshot 2024-09-12 at 15.55.47.png",
     "27 Game development.md",
-    "Computer Graphic.md",
     "Untitled.base",
     "Untitled 7.base",
     "Untitled 6.base",

@@ -1,6 +1,6 @@
 {
+  "ignoredLints": "{\"context_hashes\":[212105140627127024,3660479181632415734,8561449892684176045,17978874224402860470]}",
   "useWebWorker": true,
-  "lintEnabled": true,
   "lintSettings": {
     "ACoupleMore": null,
     "ALongTime": null,
@@ -720,5 +720,10 @@
     "YourOutClauseAgreement": null,
     "YourPredicateAdjective": null,
     "Yourself": null
-  }
+  },
+  "userDictionary": [],
+  "dialect": 0,
+  "delay": -1,
+  "lintEnabled": true,
+  "useWebStyleLints": false
 }
