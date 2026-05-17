@@ -20,3 +20,4 @@ Fan-out is **the distribution of messages by a service or message router to mul
 - ***Value Object***: an immutable object defined by its attributes, not identity.
   A Value Object can contain a method/function to support it (e.g checking valid Email)
 - ***Aggregate***: A group of entities/value objects treated as a single unit
+- 
