@@ -27,7 +27,11 @@ order.addItem(productId, qty);
   ex: transferring money between two accounts. It's not the job of Account A or Account B, it belongs to a TransferService
 - ***Domain Event***: something that happened, written in past tense.
   ex: orderPlaced
-- ***Factory***: 
+- ***Factory***: handles complicated "how to build this object" logic when a simple constructor isn't enough
 ### Anti-Corruption Layer (ACL)
 - ACL is a boundary guard (renaming fields, converting types …)
 - Turn external data into Value object, Aggregate, DTO
+
+## Rules
+- Only change an aggregate through its root, and only touch one aggregate per action/transaction.
+-  Use a Domain Event to update two aggregates at once.
