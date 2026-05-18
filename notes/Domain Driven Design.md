@@ -23,3 +23,11 @@ order.addItem(productId, qty);
 ```
 - ***Repository***: Stores and gets aggregates, doesn't care how it actually stores data.
   ex: userRepository
+- ***Domain Service***: logic that doesn't belong to any single object.
+  ex: transferring money between two accounts. It's not the job of Account A or Account B, it belongs to a TransferService
+- ***Domain Event***: something that happened, written in past tense.
+  ex: orderPlaced
+- ***Factory***: 
+### Anti-Corruption Layer (ACL)
+- ACL is a boundary guard (renaming fields, converting types …)
+- Turn external data into Value object, Aggregate, DTO
