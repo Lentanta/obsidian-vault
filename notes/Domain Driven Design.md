@@ -7,6 +7,13 @@
   ![[Pasted image 20260517190739.png]]
 - ***Context map***:
   A diagram showing how Bounded Contexts relate to each other.
+  Context Map relationship types: Shared Kernel, Customer/Supplier, Anti-Corruption Layer (ACL) — protects your context from a messy upstream context.
+- Anti-Corruption Layer (ACL):
+	- ACL is a boundary guard (renaming fields, converting types …)
+	- Turn external data into Value object, Aggregate, DTO
+- Shared Kernel:
+	- Two teams share a small piece of code/model between their bounded contexts. Both teams agree on it and both have to approve any changes.
+	- Ex: Both Billing and Shipping use the same `Money` class. If someone wants to change it, both teams must agree.
 ## Tactical Design
 
 - ***Entity***: an object with a unique identity that persists over time (e.g a User with ID)
@@ -28,10 +35,6 @@ order.addItem(productId, qty);
 - ***Domain Event***: something that happened, written in past tense.
   ex: orderPlaced
 - ***Factory***: handles complicated "how to build this object" logic when a simple constructor isn't enough
-### Anti-Corruption Layer (ACL)
-- ACL is a boundary guard (renaming fields, converting types …)
-- Turn external data into Value object, Aggregate, DTO
-
 ## Rules
 - Only change an aggregate through its root, and only touch one aggregate per action/transaction.
 -  Use a Domain Event to update two aggregates at once.
