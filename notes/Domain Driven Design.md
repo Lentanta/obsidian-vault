@@ -1,3 +1,10 @@
+## What Is Domain?
+
+The "**Domain**" is the **problem space** your software is solving.
+Example:
+- An e-commerce app's domain = orders, products, payments, shipping
+- A banking app's domain = accounts, transfers, loans
+
 ## Strategic Design
 
 - ***Ubiquitous Language*** (Ngôn ngữ phổ biến):
@@ -8,12 +15,17 @@
 - ***Context map***:
   A diagram showing how Bounded Contexts relate to each other.
   Context Map relationship types: Shared Kernel, Customer/Supplier, Anti-Corruption Layer (ACL) — protects your context from a messy upstream context.
-- Anti-Corruption Layer (ACL):
+- **Anti-Corruption Layer (ACL)**:
 	- ACL is a boundary guard (renaming fields, converting types …)
 	- Turn external data into Value object, Aggregate, DTO
-- Shared Kernel:
+- **Shared Kernel**:
 	- Two teams share a small piece of code/model between their bounded contexts. Both teams agree on it and both have to approve any changes.
-	- Ex: Both Billing and Shipping use the same `Money` class. If someone wants to change it, both teams must agree.
+	- Example:
+	  Both Billing and Shipping use the same `Money` class. If someone wants to change it, both teams must agree.
+- **Customer/Supplier**:
+	- One context **produces** data (Supplier), another **consumes** it (Customer).
+	- Example:
+	  `ShippingService` use `OrderSummary` to create new `Shipping`
 ## Tactical Design
 
 - ***Entity***: an object with a unique identity that persists over time (e.g a User with ID)
@@ -29,7 +41,7 @@ order.items.push(new OrderItem(productId, qty));
 order.addItem(productId, qty);
 ```
 - ***Repository***: Stores and gets aggregates, doesn't care how it actually stores data.
-  ex: userRepository
+  ex: `userRepository`
 - ***Domain Service***: logic that doesn't belong to any single object.
   ex: transferring money between two accounts. It's not the job of Account A or Account B, it belongs to a TransferService
 - ***Domain Event***: something that happened, written in past tense.
