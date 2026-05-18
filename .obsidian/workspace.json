@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Practice Stoicism.md",
+                "file": "notes/Domain Driven Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Stoicism"
+              "title": "Domain Driven Design"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
-    "notes/Domain Driven Design.md",
     "notes/Practice Stoicism.md",
+    "notes/Domain Driven Design.md",
     "15 System Design.md",
     "00 Index.md",
     "01 Template.md",

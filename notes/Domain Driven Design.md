@@ -21,3 +21,5 @@ order.items.push(new OrderItem(productId, qty));
 // ✅ Good - root controls all changes
 order.addItem(productId, qty);
 ```
+- ***Repository***: Stores and gets aggregates, doesn't care how it actually stores data.
+  ex: userRepository
