@@ -11,15 +11,14 @@
             "id": "4098edd1ff3671b4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "notes/Domain Driven Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "Domain Driven Design"
             }
           }
         ]
@@ -114,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Domain Driven Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Domain Driven Design"
             }
           },
           {
@@ -197,23 +197,23 @@
   },
   "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
-    "27.05 How-to & examples.md",
-    "notes/Rendering Path & Core Web Vitals.md",
-    "notes/Practice Stoicism.md",
-    "03 Notes.md",
-    "notes/Domain Driven Design.md",
     "notes/NestJS.md",
+    "notes/Practice Stoicism.md",
+    "notes/Rendering Path & Core Web Vitals.md",
+    "01 Template.md",
+    "03 Notes.md",
+    "04 Plans for me.md",
+    "10 Data structures & Algorithms.md",
+    "notes/Domain Driven Design.md",
     "images/binary-search.png",
     "images/nestjs-life-cycle.png",
-    "images/two-stack-queue.png",
     "images/tree-search.webp",
+    "images/two-stack-queue.png",
+    "27.05 How-to & examples.md",
     "Render Tree.md",
     "10.30 Leetcode problems.md",
     "15 System Design.md",
     "00 Index.md",
-    "01 Template.md",
-    "04 Plans for me.md",
-    "10 Data structures & Algorithms.md",
     "10.00 Tree Data Structures.md",
     "10.01 Linked List.md",
     "10.02 Graph.md",
