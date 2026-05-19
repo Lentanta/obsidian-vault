@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Domain Driven Design.md",
-                "mode": "source",
+                "file": "10.00 Tree Data Structures.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain Driven Design"
+              "title": "10.00 Tree Data Structures"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Domain Driven Design.md",
+                "file": "10.00 Tree Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Domain Driven Design"
+              "title": "Outgoing links from 10.00 Tree Data Structures"
             }
           },
           {
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,36 +198,37 @@
   },
   "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
-    "notes/NestJS.md",
-    "notes/Practice Stoicism.md",
+    "10 Data structures & Algorithms.md",
+    "03 Notes.md",
+    "01 Template.md",
     "notes/Rendering Path & Core Web Vitals.md",
+    "notes/Practice Stoicism.md",
+    "notes/NestJS.md",
     "notes/Domain Driven Design.md",
+    "00 Index.md",
+    "10.00 Tree Data Structures.md",
+    "11 Computer Networking.md",
+    "14.30 Docker.md",
+    "14.21 Kubernetes.md",
+    "14.00 Back-end development.md",
+    "13.01 PostgreSQL.md",
+    "12.00 Go.md",
+    "11.00 OSI Model.md",
+    "10.30 Leetcode problems.md",
+    "10.10 Binary search.md",
     "images/nestjs-life-cycle.png",
     "images/binary-search.png",
-    "01 Template.md",
-    "03 Notes.md",
     "04 Plans for me.md",
-    "10 Data structures & Algorithms.md",
     "images/tree-search.webp",
     "images/two-stack-queue.png",
     "27.05 How-to & examples.md",
     "Render Tree.md",
-    "10.30 Leetcode problems.md",
     "15 System Design.md",
-    "00 Index.md",
-    "10.00 Tree Data Structures.md",
     "10.01 Linked List.md",
     "10.02 Graph.md",
-    "10.10 Binary search.md",
     "11.01 Comunication protocol.md",
-    "12.00 Go.md",
-    "13.01 PostgreSQL.md",
     "13.02 Normalization.md",
-    "14 Software development.md",
     "notes",
-    "11.00 OSI Model.md",
-    "12 Languages and Compilers.md",
-    "11 Computer Networking.md",
     "Pasted image 20240827110520.png",
     "Pasted image 20240828161657.png",
     "Screenshot 2024-08-14 at 10.50.24.png",
