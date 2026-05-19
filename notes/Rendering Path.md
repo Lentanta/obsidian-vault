@@ -13,8 +13,9 @@ RenderSteps["`
 
 Server --> HTML
 HTML   --> CSS --> CSSOM
+HTML   --> DOM
 HTML   --> JS  --> DOM
-HTML   --> Fonts
+HTML   --> Assets
 
 CSSOM  --> RenderTree
 DOM    --> RenderTree
@@ -23,4 +24,9 @@ RenderTree  --> RenderSteps
 RenderSteps --> Display
 
 ```
-## Core Web Vital
+## Core Web Vitals
+Metrics that measure how fast a page load (CRP) and how fast it response to input
+
+LCP (loading): Largest Content Full Paint
+INP (interactively): 
+
