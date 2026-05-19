@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.30 Leetcode problems.md",
+                "file": "notes/NestJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.30 Leetcode problems"
+              "title": "NestJS"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
-    "notes/Domain Driven Design.md",
     "notes/Practice Stoicism.md",
+    "notes/NestJS.md",
+    "notes/Domain Driven Design.md",
+    "10.30 Leetcode problems.md",
     "15 System Design.md",
     "00 Index.md",
     "01 Template.md",
@@ -210,7 +212,6 @@
     "10.01 Linked List.md",
     "10.02 Graph.md",
     "10.10 Binary search.md",
-    "10.30 Leetcode problems.md",
     "11.01 Comunication protocol.md",
     "12.00 Go.md",
     "13.01 PostgreSQL.md",
@@ -233,7 +234,6 @@
     "Screenshot from 2024-08-22 17-00-48.png",
     "Screenshot from 2024-08-22 15-57-29.png",
     "Screenshot 2024-09-12 at 15.55.47.png",
-    "27 Game development.md",
     "Untitled.base",
     "Untitled 7.base",
     "Untitled 6.base",
