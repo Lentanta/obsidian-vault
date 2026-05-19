@@ -1,10 +1,10 @@
 ```mermaid
-flowchart LR
+flowchart TD
 
-style D text-align:left
+RenderTree(Render Tree)
 
-T(Render Tree)
-RenderStep["`
+style RenderSteps text-align:left
+RenderSteps["`
 	1.Style
 	2.Layout
 	3.Paint
@@ -16,9 +16,11 @@ HTML   --> CSS --> CSSOM
 HTML   --> JS  --> DOM
 HTML   --> Fonts
 
-CSSOM  --> T
-DOM    --> T 
+CSSOM  --> RenderTree
+DOM    --> RenderTree
 
-T --> RenderStep
+RenderTree  --> RenderSteps
+RenderSteps --> Display
 
 ```
+## Core Web Vital
