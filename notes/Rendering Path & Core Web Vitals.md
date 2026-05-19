@@ -1,5 +1,5 @@
 ## Rendering Path Diagram
-
+---
 ```mermaid
 flowchart TD
 
@@ -25,6 +25,7 @@ RenderTree  --> RenderSteps
 RenderSteps --> Display
 ```
 ## Core Web Vitals
+---
 Metrics that measure **loading performance**, **interactivity**, and **visual stability**.
 
 LCP (loading): Largest Contentful Paint
