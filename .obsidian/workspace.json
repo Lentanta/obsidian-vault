@@ -11,32 +11,18 @@
             "id": "4098edd1ff3671b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "notes/NestJS.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "NestJS"
-            }
-          },
-          {
-            "id": "ca4bd009737751aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Rendering Path.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rendering Path"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,12 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15 System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15 System Design"
+              "title": "Outgoing links"
             }
           },
           {
@@ -165,8 +150,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -192,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,18 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca4bd009737751aa",
+  "active": "4098edd1ff3671b4",
   "lastOpenFiles": [
-    "notes/NestJS.md",
-    "notes/Rendering Path.md",
-    "notes/Domain Driven Design.md",
+    "27.05 How-to & examples.md",
+    "notes/Rendering Path & Core Web Vitals.md",
     "notes/Practice Stoicism.md",
+    "03 Notes.md",
+    "notes/Domain Driven Design.md",
+    "notes/NestJS.md",
+    "images/binary-search.png",
     "images/nestjs-life-cycle.png",
+    "images/two-stack-queue.png",
+    "images/tree-search.webp",
+    "Render Tree.md",
     "10.30 Leetcode problems.md",
     "15 System Design.md",
     "00 Index.md",
     "01 Template.md",
-    "03 Notes.md",
     "04 Plans for me.md",
     "10 Data structures & Algorithms.md",
     "10.00 Tree Data Structures.md",
@@ -234,22 +223,16 @@
     "13.01 PostgreSQL.md",
     "13.02 Normalization.md",
     "14 Software development.md",
-    "27.05 How-to & examples.md",
     "notes",
     "11.00 OSI Model.md",
     "12 Languages and Compilers.md",
     "11 Computer Networking.md",
-    "14.20 Amazon Web Services.md",
-    "14.00 Back-end development.md",
     "Pasted image 20240827110520.png",
     "Pasted image 20240828161657.png",
     "Screenshot 2024-08-14 at 10.50.24.png",
     "Pasted image 20240830100253.png",
     "Screenshot 2024-08-14 at 16.27.26.png",
     "Screenshot from 2024-08-22 10-07-12.png",
-    "Screenshot from 2024-08-22 17-00-48.png",
-    "Screenshot from 2024-08-22 15-57-29.png",
-    "Screenshot 2024-09-12 at 15.55.47.png",
     "Untitled.base",
     "Untitled 7.base",
     "Untitled 6.base",

@@ -23,7 +23,6 @@ DOM    --> RenderTree
 
 RenderTree  --> RenderSteps
 RenderSteps --> Display
-
 ```
 ## Core Web Vitals
 Metrics that measure **loading performance**, **interactivity**, and **visual stability**.
@@ -35,5 +34,3 @@ CLS (visual stability): Cumulative Layout Shift
 **Diagnostic metrics**
 FCP: First Contentful Paint
 TBT: Total Blocking Time
-
-## Where These Metrics come From?
